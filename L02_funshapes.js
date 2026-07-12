@@ -2,7 +2,7 @@
 Task 1: Add the setup() function
 */
 function setup(){
-  createCanva
+  createCanvas()
 }
 function draw() {
   // Challenge 1: An eye using ellipse() function
