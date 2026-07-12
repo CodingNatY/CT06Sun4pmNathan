@@ -13,7 +13,7 @@ function draw() {
   // Challenge 2: A face using circle() function
   circle(600,150,400)
   circle(550,50,50)
-  circle()
+  circle(700,0,50)
   // Challenge 3 :A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
