@@ -18,13 +18,13 @@ function draw() {
   // circle(800,150,100)
   // ellipse(           600,300,300,50)
   // Challenge 3 :A house using rect() function
-rect(300,100,600,400)
-circle(400,200,100)
-circle(800,200,100)
-rect(550,200,100,300)
-ellipse(600,350,100,250)
+// rect(300,100,600,400)
+// circle(400,200,100)
+// circle(800,200,100)
+// rect(550,200,100,300)
+// ellipse(600,350,100,250)
   // Challenge 4: A rocketship using triangle() function
-
+tri
   // Challenge 5: A square face using quad() function
 
   // Challenge 6: Add some colours to the drawings in the above challenges
