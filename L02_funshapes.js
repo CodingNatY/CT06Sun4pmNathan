@@ -16,7 +16,7 @@ function draw() {
   circle(675,200,50)
   circle(400,150,100)
   circle(800,150,100)
-  ellipse(           600,400,300,50)
+  ellipse(           600,300,300,50)
   // Challenge 3 :A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
