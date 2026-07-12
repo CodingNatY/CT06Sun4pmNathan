@@ -11,7 +11,7 @@ function draw() {
 // ellipse(600,300,200,400)
 // ellipse(600,300,200,100)
   // Challenge 2: A face using circle() function
-
+CSSNumericValue()
   // Challenge 3: A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
