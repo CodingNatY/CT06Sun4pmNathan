@@ -22,7 +22,7 @@ rect(300,100,600,400)
 circle(400,200,100)
 circle(800,200,100)
 rect(550,200,100,300)
-ellipse(575,250,100,250)
+ellipse(550,250,100,250)
   // Challenge 4: A rocketship using triangle() function
 
   // Challenge 5: A square face using quad() function
