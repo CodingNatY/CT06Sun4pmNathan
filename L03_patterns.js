@@ -11,11 +11,11 @@ function draw() {
 // circle(375,200,100)
 // circle(525,200,100)
   // Task 1: Colour Gradient
-for (let i=0; i<9;i++){
-nostroke();
-fill(255 - i * 25);
-rect(50 + i * 35,90,25);
-}
+// for (let i=0; i<9;i++){
+// nostroke();
+// fill(255 - i * 25);
+// rect(50 + i * 35,90,25);
+// }
   // Task 2: Colour Loop
 
   // Task 3: Row of Circles
