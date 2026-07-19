@@ -1,5 +1,5 @@
 function setup() {
-    createCanvas(1000, 200);
+    createCanvas(600, 200);
     background(220);
     noLoop(); // Stops continuous drawing
   }
@@ -23,7 +23,7 @@ for(let i = 0;i<5;i++) {
   }else{
   fill(255);
   }
-  circle(spacing + i * spacing)
+  circle(spacing + i * spacing,400,200)
 }
   // Task 3: Row of Circles
 
