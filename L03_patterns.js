@@ -14,7 +14,7 @@ function draw() {
 for (let i=0; i<10;i++){
 nostroke();
 fill(i * 25)
-rect(255 - i * 35,90,40)
+rect(255 + i * 35,90,40)
 }
   // Task 2: Colour Loop
 
