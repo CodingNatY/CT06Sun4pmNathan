@@ -12,7 +12,7 @@ function draw() {
 // circle(525,200,100)
   // Task 1: Colour Gradient
 for (let i=0; i<5;i++){
-fill(i * 50)
+fill(i * 25)
 circle(255 - i * 25,100,40)
 }
   // Task 2: Colour Loop
