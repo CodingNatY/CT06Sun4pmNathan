@@ -35,6 +35,8 @@ let gap = halfwidth - halfcirclewidth;
 let radius = circlediamiter/2;
 let startX = 0;
 startX = gap+radius
-
+for(let i = 0; i<5;i++){
+  circlediamiter()
+}
   // Task 4: Grid of Circles
 }
