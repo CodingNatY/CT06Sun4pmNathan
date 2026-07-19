@@ -32,6 +32,6 @@ let halfwidth = width/2
 let circlewidth = 30*5
 let halfcirclewidth = circlediamiter/2
 let gap = halfwidth - halfcirclewidth
-let radi
+let radius = circled
   // Task 4: Grid of Circles
 }
