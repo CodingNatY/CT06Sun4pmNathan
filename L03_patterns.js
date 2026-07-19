@@ -29,6 +29,6 @@ function draw() {
   // Task 3: Row of Circles
 let circlediamiter = 30
 let halfwidth = width/2
-let halfcirclewidth = circlediamiter
+let halfcirclewidth = circlediamiter/2
   // Task 4: Grid of Circles
 }
