@@ -36,7 +36,7 @@ let radius = circlediamiter/2;
 let startX = 0;
 startX = gap+radius
 for(let i = 0; i<5;i++){
-  circlediamiter(startX + i *30,15)
-}
+  circlediamiter(startX + i *30,15,30)
+};
   // Task 4: Grid of Circles
 }
