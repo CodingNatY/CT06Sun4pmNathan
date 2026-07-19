@@ -17,7 +17,7 @@ function draw() {
 // rect(50 + i * 35,90,25);
 // }
   // Task 2: Colour Loop
-
+for(let i = 0;i=5;i++) {}
   // Task 3: Row of Circles
 
   // Task 4: Grid of Circles
