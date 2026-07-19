@@ -17,15 +17,15 @@ function draw() {
 // rect(50 + i * 35,90,25);
 // }
   // Task 2: Colour Loop
-let spacing = 50;
-for(let i = 0;i<5;i++) {
-  if(i%2==0) {
-    fill(0);
-  }else{
-  fill(255);
-  }
-  circle(spacing + i * spacing,200,50)
-}
+// let spacing = 50;
+// for(let i = 0;i<5;i++) {
+//   if(i%2==0) {
+//     fill(0);
+//   }else{
+//   fill(255);
+//   }
+//   circle(spacing + i * spacing,200,50)
+// }
   // Task 3: Row of Circles
 
   // Task 4: Grid of Circles
