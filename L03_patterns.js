@@ -12,7 +12,7 @@ fill(255,0,125)
 circle(225,200,100)
 fill(255,0,255)
 circle(375,200,100)
-fill()
+fill(0,0,255)
 circle(525,200,100)
   // Task 1: Colour Gradient
 
