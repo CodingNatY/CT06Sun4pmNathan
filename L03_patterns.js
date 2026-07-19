@@ -24,7 +24,7 @@ for(let i = 0;i<5;i++) {
   }else{
   fill(255);
   }
-  circle(spacing + i * spacing,400,50)
+  circle(spacing + i * spacing,200,50)
 }
   // Task 3: Row of Circles
 
