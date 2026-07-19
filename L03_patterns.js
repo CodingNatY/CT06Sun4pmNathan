@@ -12,7 +12,6 @@ function draw() {
 // circle(525,200,100)
   // Task 1: Colour Gradient
 for (let i=0; i<10;i++){
-nostroke(10)
 fill(i * 25)
 rect(255 - i * 25,100,40)
 }
