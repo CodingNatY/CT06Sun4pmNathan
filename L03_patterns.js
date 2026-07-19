@@ -27,7 +27,7 @@ function draw() {
 //   circle(spacing + i * spacing,200,50)
 // }
   // Task 3: Row of Circles
-cicle
+circlediamiter
 let halfwidth = 200
   // Task 4: Grid of Circles
 }
