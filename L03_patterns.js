@@ -34,7 +34,7 @@ let halfcirclewidth = circlediamiter/2;
 let gap = halfwidth - halfcirclewidth;
 let radius = circlediamiter/2;
 let startX = 0;
-startX = gap+radius
+startX =gap + radius
 for(let i = 0; i<5;i++){
   circle(startX + i *30,15,30)
 };
