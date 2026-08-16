@@ -21,5 +21,6 @@ function keyPressed(){
     for(let i=0; i < numCircles; i++);
         let x = random(width);
         let y = random(height);
-        let size = 
+        let size = random(5,40);
+        
 }
