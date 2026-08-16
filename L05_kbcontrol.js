@@ -61,10 +61,10 @@ function draw(){
     //     circle(300,200,100)
     // }
     
-    if (KeyIsDown(LEFT_ARROW)){
+    if (keyIsDown(LEFT_ARROW)){
         x -= speed;
     }
-    if(KeyIsDown(RIGHT_ARROW)){
+    if(keyIsDown(RIGHT_ARROW)){
         x += speed;
     }
     if(KeyIsDown(UP_ARROW)){
