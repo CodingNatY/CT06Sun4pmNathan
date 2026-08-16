@@ -26,7 +26,7 @@ function setup(){
 //         circle(x,y,size);
 
         console.log("key:",key)
-        console.log("keycode:",keode)
+        console.log("keycode:",keyCode)
 // }
 function keyReleased(){
     background(220);
