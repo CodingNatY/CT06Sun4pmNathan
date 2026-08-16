@@ -17,5 +17,5 @@
 // }
 
 function keyPressed(){
-    let num
+    let numCircles = floor
 }
