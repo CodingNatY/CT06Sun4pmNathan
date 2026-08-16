@@ -31,5 +31,5 @@ function setup(){
 
 function draw(){
     if(key === 'c' || key === 'C')
-        
+        circle
 }
