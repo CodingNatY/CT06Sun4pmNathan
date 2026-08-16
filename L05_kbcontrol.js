@@ -48,7 +48,7 @@ function draw(){
     }
     if(keyCode === 40){
         fill(255);
-        circle
+        circle(300,200,100)
     }
     }
 
