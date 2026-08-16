@@ -74,6 +74,6 @@ function draw(){
         y+=speed
     }
     x = constrain(x,0,width);
-    y
+    y = constrain
     }
 
