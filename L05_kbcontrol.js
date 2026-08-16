@@ -52,7 +52,7 @@ function draw(){
     if(keyCode === 71){
         fill(0,255,0)
         circle(300,200,100)
-    ifelse
+    ifelse()
     }
     }
     }
