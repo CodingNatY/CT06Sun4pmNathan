@@ -76,6 +76,6 @@ function draw(){
     }
     x = constrain(x,0,width);
     y = constrain(y,0,height);
-    circle(100,100,80);
+    circle(x,y,80);
     }
 
