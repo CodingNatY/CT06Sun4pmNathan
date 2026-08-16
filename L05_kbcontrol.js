@@ -62,7 +62,8 @@ function draw(){
     let y = 100;
     let speed = 3;
     if (KeyIsDown(LEFT_ARROW)){
-        x-speed;
+        x -= speed;
+        
     }
     }
 
