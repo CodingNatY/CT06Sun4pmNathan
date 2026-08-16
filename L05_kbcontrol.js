@@ -26,5 +26,5 @@ function keyPressed(){
         circle(x,y,size);
 }
 function keyRelesased(){
-    background(220)
+    background(220);
 }
