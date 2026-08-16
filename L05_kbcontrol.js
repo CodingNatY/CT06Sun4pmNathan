@@ -63,6 +63,11 @@ function draw(){
     let speed = 3;
     if (KeyIsDown(LEFT_ARROW)){
         x -= speed;
+    }
+    if(KeyIsDown(RIGHT_ARROW)){
+        x += speed;
+    }
+    if(KeyIsDown(UP_ARROW)){
         
     }
     }
