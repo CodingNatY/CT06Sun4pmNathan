@@ -1,5 +1,5 @@
 let size = 5;
-let colou
+let colours;
 function setup(){
     createCanvas(600,400);
     background(220);
