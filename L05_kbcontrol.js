@@ -6,7 +6,7 @@ function setup(){
 }
 
 function mousePressed(){
-    colours = colour(random(255), random(255), random(255));
+    colours = color(random(255), random(255), random(255));
     size = 5;
 }
 
