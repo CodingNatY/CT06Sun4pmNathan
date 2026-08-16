@@ -18,6 +18,7 @@ function setup(){
 
 function keyPressed(){
     let numCircles = floor(random(5,21));
-    for(let i=0; i < numCircles; i++)
-        let x = random(wi)
+    for(let i=0; i < numCircles; i++);
+        let x = random(width);
+
 }
