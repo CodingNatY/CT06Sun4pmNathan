@@ -16,7 +16,7 @@ function setup(){
 //     size += 0.5;
 // }
 
-// function keyPressed(){
+function keyPressed(){
 //     let numCircles = floor(random(5,21));
 //     for(let i=0; i < numCircles; i++);
 //         let x = random(width);
@@ -27,7 +27,7 @@ function setup(){
 
         console.log("key:",key)
         console.log("keycode:",keyCode)
-// }
+ }
 function keyReleased(){
     background(220);
 }
