@@ -42,6 +42,8 @@ function draw(){
 //     if(key === 't' || key === 'T'){
 //          triangle(100,50,50,150,150,150);
 //     }
-    if(keyCode ===38 ){}
+    if(keyCode ===38 ){
+        
+    }
     }
 
