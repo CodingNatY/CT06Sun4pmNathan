@@ -47,8 +47,11 @@ function draw(){
         circle(300,200,100);
     }
     if(keyCode === 82){
-        fill();
+        fill(255,0,0);
         circle(300,200,100)
+    if(keyCode === 71){
+        
+    }
     }
     }
 
