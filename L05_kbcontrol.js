@@ -42,7 +42,7 @@ function draw(){
 //     if(key === 't' || key === 'T'){
 //          triangle(100,50,50,150,150,150);
 //     }
-    if(keyCode ===87 ){
+    if(keyCode === 87 ){
         fill(255,0,0);
         circle(300,200,100);
     }
