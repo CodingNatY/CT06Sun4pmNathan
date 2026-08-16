@@ -43,7 +43,7 @@ function draw(){
 //          triangle(100,50,50,150,150,150);
 //     }
     if(keyCode ===38 ){
-        fill
+        fill()
         circle(300,200,100);
     }
     }
