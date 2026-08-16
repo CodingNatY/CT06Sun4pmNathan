@@ -59,6 +59,7 @@ function draw(){
     //     circle(300,200,100)
     // }
     let x = 100;
+    let y = 100;
     
     }
 
