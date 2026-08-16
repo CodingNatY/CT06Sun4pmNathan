@@ -61,7 +61,7 @@ function draw(){
     //     fill(255,255,0)
     //     circle(300,200,100)
     // }
-    circle(100,100,80);
+    
     if (keyIsDown(LEFT_ARROW)){
         x -= speed;
     }
@@ -76,5 +76,6 @@ function draw(){
     }
     x = constrain(x,0,width);
     y = constrain(y,0,height);
+    circle(100,100,80);
     }
 
