@@ -50,7 +50,7 @@ function draw(){
         fill(255,0,0);
         circle(300,200,100)
     if(keyCode === 71){
-        
+        fill()
     }
     }
     }
