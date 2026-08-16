@@ -25,7 +25,7 @@ function setup(){
 //         fill(random(255),random(255),random(255))
 //         circle(x,y,size);
 
-        
+        console.log
 // }
 function keyReleased(){
     background(220);
