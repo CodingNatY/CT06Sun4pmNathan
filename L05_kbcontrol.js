@@ -51,7 +51,7 @@ function draw(){
         circle(300,200,100)
     if(keyCode === 71){
         fill(0,255,0)
-        circle
+        circle(300,200,100)
     }
     }
     }
