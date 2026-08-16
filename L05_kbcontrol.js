@@ -1,5 +1,7 @@
 // let size = 5;
-// let colours;
+// let colours;let x = 100;
+    let y = 100;
+    let speed = 3;
 function setup(){
     createCanvas(600,400);
     background(220);
@@ -58,9 +60,7 @@ function draw(){
     //     fill(255,255,0)
     //     circle(300,200,100)
     // }
-    let x = 100;
-    let y = 100;
-    let speed = 3;
+    
     if (KeyIsDown(LEFT_ARROW)){
         x -= speed;
     }
