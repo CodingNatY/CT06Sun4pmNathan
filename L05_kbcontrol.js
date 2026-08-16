@@ -17,5 +17,5 @@
 // }
 
 function keyPressed(){
-    let numCircles = floor
+    let numCircles = floor(random)
 }
