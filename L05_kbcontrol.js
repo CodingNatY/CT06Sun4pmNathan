@@ -18,5 +18,6 @@ function setup(){
 
 function keyPressed(){
     let numCircles = floor(random(5,21));
-    let numCircles
+    for(let i=0; i < numCircles; i++)
+        let 
 }
