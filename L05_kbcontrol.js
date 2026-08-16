@@ -42,21 +42,22 @@ function draw(){
 //     if(key === 't' || key === 'T'){
 //          triangle(100,50,50,150,150,150);
 //     }
-    if(keyCode === 87 ){
-        fill(255);
-        circle(300,200,100);
-    }
-    else if(keyCode === 82){
-        fill(255,0,0);
-        circle(300,200,100)
-    }
-    else if(keyCode === 71){
-        fill(0,255,0)
-        circle(300,200,100)
-    }
-    else{
-        fill(255,255,0)
-        circle(300,200,100)
-    }
+    // if(keyCode === 87 ){
+    //     fill(255);
+    //     circle(300,200,100);
+    // }
+    // else if(keyCode === 82){
+    //     fill(255,0,0);
+    //     circle(300,200,100)
+    // }
+    // else if(keyCode === 71){
+    //     fill(0,255,0)
+    //     circle(300,200,100)
+    // }
+    // else{
+    //     fill(255,255,0)
+    //     circle(300,200,100)
+    // }
+    
     }
 
