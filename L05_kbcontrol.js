@@ -16,6 +16,6 @@
 //     size += 0.5;
 // }
 
-function (){
+function keyPressed(){
 
 }
