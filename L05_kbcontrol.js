@@ -30,7 +30,6 @@ function keyRelesased(){
 }
 
 function draw(){
-    background(220)
-    if(key === 'c' || key === 'C')
-        circle(100,100,80)
+    if(key === 'c' || key === 'C');
+        circle(100,100,80);
 }
