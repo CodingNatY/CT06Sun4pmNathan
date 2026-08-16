@@ -32,7 +32,7 @@ function keyReleased(){
     background(220);
 }
 
-// function draw(){
+function draw(){
 //     if(key === 'c' || key === 'C'){
 //          circle(100,100,80);
 //     }
@@ -42,5 +42,6 @@ function keyReleased(){
 //     if(key === 't' || key === 'T'){
 //          triangle(100,50,50,150,150,150);
 //     }
-//     }
+
+    }
 
