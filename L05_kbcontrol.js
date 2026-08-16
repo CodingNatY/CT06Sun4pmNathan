@@ -32,14 +32,14 @@ function keyReleased(){
     background(220);
 }
 
-function draw(){
-    if(key === 'c' || key === 'C'){
-         circle(100,100,80);
-    }
-    if(key === 's' || key === 'S'){
-         square(60,60,80);
-    }
-    if(key === 't' || key === 'T'){
-         triangle(100,50,50,150,150,150);
-    }
-    }
+// function draw(){
+//     if(key === 'c' || key === 'C'){
+//          circle(100,100,80);
+//     }
+//     if(key === 's' || key === 'S'){
+//          square(60,60,80);
+//     }
+//     if(key === 't' || key === 'T'){
+//          triangle(100,50,50,150,150,150);
+//     }
+//     }
