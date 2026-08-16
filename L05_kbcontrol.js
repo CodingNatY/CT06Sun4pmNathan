@@ -34,7 +34,7 @@ function draw(){
          circle(100,100,80);
     }
     if(key === 's' || key === 'S'){
-         square(100,100,80);
-    
+         square(60,60,80);
     }
+    
     }
