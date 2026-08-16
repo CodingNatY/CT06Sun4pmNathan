@@ -1,5 +1,6 @@
 // let size = 5;
-// let colours;let x = 100;
+// let colours;
+let x = 100;
     let y = 100;
     let speed = 3;
 function setup(){
