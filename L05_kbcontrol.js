@@ -30,7 +30,7 @@ function setup(){
 // }
 
 function draw(){
-    background
+    background(220)
     if(key === 'c' || key === 'C')
         circle(100,100,80)
 }
