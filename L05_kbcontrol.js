@@ -25,9 +25,9 @@ function setup(){
 //         fill(random(255),random(255),random(255))
 //         circle(x,y,size);
 // }
-// function keyRelesased(){
-//     background(220);
-// }
+function keyRelesased(){
+    background(220);
+}
 
 function draw(){
     background(220)
