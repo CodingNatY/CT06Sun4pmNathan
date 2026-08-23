@@ -28,7 +28,7 @@ function draw(){
         if(keyIsDown(DOWN_ARROW)){
         staticImageY+=staticSpeed
     }
-    constrain
+    constrain(staticImageX)
     image(staticImage,staticImageX,staticImageY,50,50);
 }
 function keyPressed(){
