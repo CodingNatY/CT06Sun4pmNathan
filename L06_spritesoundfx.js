@@ -5,7 +5,11 @@ function setup(){
     background(220);
 }
 let soundEffect, bgMusic, staticImage
-
+function preload(){
+    soundEffect = loadSound('assets/pop.mp3');
+    bgMusic = loadSound(assets/bossNova.mp3);
+    loadImage = 'assets/pico-a'
+}
 function draw(){
     if(keyCode === 38){
         y -= 5;
