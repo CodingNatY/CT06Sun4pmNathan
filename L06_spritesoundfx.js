@@ -20,7 +20,7 @@ function draw(){
         staticImageX-=staticSpeed
     }
         if(keyIsDown(RIGHT_ARROW)){
-        staticImageX-=staticSpeed
+        staticImageX+=staticSpeed
     }
 }
 function keyPressed(){
