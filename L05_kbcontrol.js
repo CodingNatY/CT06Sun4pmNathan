@@ -39,7 +39,7 @@ function keyReleased(){
 }
 
 function draw(){
-    fill
+    FileList(shapeColor)
 //     if(key === 'c' || key === 'C'){
 //          circle(100,100,80);
 //     }
