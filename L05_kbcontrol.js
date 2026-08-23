@@ -3,7 +3,8 @@
 // let x = 100;
 //     let y = 100;
 //     let speed = 3;
-let shapeColor = ""
+let shapeColor = "black";
+let
 function setup(){
     createCanvas(600,400);
     background(220);
