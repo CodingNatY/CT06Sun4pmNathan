@@ -4,7 +4,7 @@ let soundEffect, bgMusic, staticImage
 function preload(){
     soundEffect = loadSound('assets/pop.mp3');
     bgMusic = loadSound('assets/bossNova.mp3');
-    loadImage = loadImage('assets/pico-a.png')
+    loadImage = loadImage('assets/pico-a.png');
 }
 function setup(){
     createCanvas(400,400);
