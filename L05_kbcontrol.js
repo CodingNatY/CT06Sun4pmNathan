@@ -5,7 +5,7 @@
 //     let speed = 3;
 let shapeColor = "black";
 let shapeX = 200;
-let shapeY =200;
+let shapeY = 200;
 function setup(){
     createCanvas(600,400);
     background(220);
