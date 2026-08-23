@@ -3,7 +3,7 @@
 // let x = 100;
 //     let y = 100;
 //     let speed = 3;
-let shape colours
+let shapeColo
 function setup(){
     createCanvas(600,400);
     background(220);
