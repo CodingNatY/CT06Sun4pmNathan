@@ -1,15 +1,14 @@
 let x = 200;
 let y = 200;
-
-function setup(){
-    createCanvas(400,400);
-    background(220);
-}
 let soundEffect, bgMusic, staticImage
 function preload(){
     soundEffect = loadSound('assets/pop.mp3');
     bgMusic = loadSound(assets/bossNova.mp3);
     loadImage = 'assets/pico-a.png'
+}
+function setup(){
+    createCanvas(400,400);
+    background(220);
 }
 function draw(){
     if(keyCode === 38){
