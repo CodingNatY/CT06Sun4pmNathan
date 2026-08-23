@@ -27,7 +27,7 @@ function draw(){
 //     }
 //     circle(x,y,50);
 }
-function key(){
+function keyPressed(){
 if(keyCode===32){
         soundEffect.play();
     }
