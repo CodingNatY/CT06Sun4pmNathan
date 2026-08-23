@@ -4,7 +4,8 @@
 //     let y = 100;
 //     let speed = 3;
 let shapeColor = "black";
-let shapeX = 200
+let shapeX = 200;
+let sh
 function setup(){
     createCanvas(600,400);
     background(220);
