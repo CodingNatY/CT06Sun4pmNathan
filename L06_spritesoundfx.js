@@ -12,7 +12,7 @@ function setup(){
     bgMusic.loop();
 }
 function draw(){
-    Image()
+    Image(staticImage,0,0,5)
 //     if(keyCode === 38){
 //         y -= 5;
 //     }
