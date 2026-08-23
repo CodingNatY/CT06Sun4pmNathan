@@ -12,7 +12,7 @@ function setup(){
 }
 function draw(){
     if(keyCode===32){
-        soundEffect.play()
+        soundEffect.play();
     }
 //     if(keyCode === 38){
 //         y -= 5;
