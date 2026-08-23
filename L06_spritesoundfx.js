@@ -13,20 +13,7 @@ function setup(){
 }
 function draw(){
      background(220);
-    image(staticImage,0,0,50,50)
-//     if(keyCode === 38){
-//         y -= 5;
-//     }
-//     if(keyCode === 37){
-//         x-=5;
-//     }
-//     if(keyCode === 39){
-//         x+=5;
-//     }
-//     if(keyCode === 40){
-//         y+=5;
-//     }
-//     circle(x,y,50);
+    image(staticImage,0,0,50,50);
 }
 function keyPressed(){
 if(keyCode===32){
