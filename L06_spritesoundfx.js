@@ -8,7 +8,7 @@ let soundEffect, bgMusic, staticImage
 function preload(){
     soundEffect = loadSound('assets/pop.mp3');
     bgMusic = loadSound(assets/bossNova.mp3);
-    loadImage = 'assets/pico-a'
+    loadImage = 'assets/pico-a.png'
 }
 function draw(){
     if(keyCode === 38){
