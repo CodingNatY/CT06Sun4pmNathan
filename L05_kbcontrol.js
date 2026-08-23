@@ -40,6 +40,8 @@ function keyReleased(){
 
 function draw(){
     fill(shapeColor);
+    if(key === 'r' || key === 'R'){}
+
 //     if(key === 'c' || key === 'C'){
 //          circle(100,100,80);
 //     }
