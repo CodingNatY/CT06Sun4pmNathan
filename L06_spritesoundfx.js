@@ -12,9 +12,7 @@ function setup(){
     bgMusic.loop();
 }
 function draw(){
-    if(keyCode===32){
-        soundEffect.play();
-    }
+    
 //     if(keyCode === 38){
 //         y -= 5;
 //     }
@@ -28,4 +26,6 @@ function draw(){
 //         y+=5;
 //     }
 //     circle(x,y,50);
-}
+}if(keyCode===32){
+        soundEffect.play();
+    }
