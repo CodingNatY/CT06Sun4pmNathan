@@ -17,7 +17,7 @@ function setup(){
 function draw(){
      background(220);
     if(keyIsDown(LEFT_ARROW)){
-        
+        staticImageX
     }
 }
 function keyPressed(){
