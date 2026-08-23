@@ -4,7 +4,7 @@ function setup(){
     createCanvas(400,400);
     background(220);
 }
-let soundEffect, bgMusic, 
+let soundEffect, bgMusic, static
 function draw(){
     if(keyCode === 38){
         y -= 5;
