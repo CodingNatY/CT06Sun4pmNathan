@@ -11,7 +11,7 @@ function preload(){
 }
 function setup(){
     createCanvas(400,400);
-   
+   XN
     bgMusic.loop();
 }
 function draw(){
