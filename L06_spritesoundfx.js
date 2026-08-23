@@ -16,7 +16,7 @@ function setup(){
 }
 function draw(){
      background(220);
-     if(staticImageX<=0 || staticImageX >= 400 || st)
+     if(staticImageX<=0 || staticImageX >= 400 || staticImageY<=0)
     if(keyIsDown(LEFT_ARROW)){
         staticImageX-=staticSpeed;
     }
