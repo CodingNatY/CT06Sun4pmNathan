@@ -17,10 +17,10 @@ function setup(){
 function draw(){
      background(220);
     if(keyIsDown(LEFT_ARROW)){
-        staticImageX-=staticSpeed
+        staticImageX-=staticSpeed;
     }
         if(keyIsDown(RIGHT_ARROW)){
-        staticImageX+=staticSpeed
+        staticImageX+=staticSpeed;
     }
     image(staticImage,staticImageX,staticImageY,50,50);
 }
