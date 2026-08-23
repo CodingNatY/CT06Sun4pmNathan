@@ -3,8 +3,8 @@ let y = 200;
 let soundEffect, bgMusic, staticImage
 function preload(){
     soundEffect = loadSound('assets/pop.mp3');
-    bgMusic = loadSoun('assets/bossNova.mp3');
-    loadImage = 'assets/pico-a.png'
+    bgMusic = loadSound('assets/bossNova.mp3');
+    loadImage = loadImage('assets/pico-a.png')
 }
 function setup(){
     createCanvas(400,400);
