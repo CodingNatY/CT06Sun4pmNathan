@@ -8,11 +8,11 @@ function preload(){
 }
 function setup(){
     createCanvas(400,400);
-    background(220);
+   
     bgMusic.loop();
 }
 function draw(){
-    Image(staticImage,0,0,50,50)
+    image(staticImage,0,0,50,50)
 //     if(keyCode === 38){
 //         y -= 5;
 //     }
