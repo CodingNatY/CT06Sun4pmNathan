@@ -25,7 +25,7 @@ function draw(){
         if(keyIsDown(UP_ARROW)){
         staticImageY-=staticSpeed;
     }
-        if(keyIsDown()){
+        if(keyIsDown(DOWN_ARROW)){
         staticImageX-=staticSpeed
     }
     image(staticImage,staticImageX,staticImageY,50,50);
