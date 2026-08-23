@@ -41,7 +41,7 @@ function keyReleased(){
 function draw(){
     fill(shapeColor);
     if(key === 'r' || key === 'R'){
-        
+        if(key === '-')
         rect()
     }
 
