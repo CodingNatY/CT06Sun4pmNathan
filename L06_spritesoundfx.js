@@ -15,7 +15,7 @@ function draw(){
      background(220);
     image(staticImage,0,0,50,50);
 }
-function keyPressed(){
+function keyHold(){
 if(keyCode===32){
         soundEffect.play();
     }
