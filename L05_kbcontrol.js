@@ -65,20 +65,20 @@ function draw(){
     //     circle(300,200,100)
     // }
     
-    if (keyIsDown(LEFT_ARROW)){
-        x -= speed;
-    }
-    if(keyIsDown(RIGHT_ARROW)){
-        x += speed;
-    }
-    if(keyIsDown(UP_ARROW)){
-        y-=speed;
-    }
-    if(keyIsDown(DOWN_ARROW)){
-        y+=speed
-    }
-    x = constrain(x,0,width);
-    y = constrain(y,0,height);
-    circle(x,y,80);
+    // if (keyIsDown(LEFT_ARROW)){
+    //     x -= speed;
+    // }
+    // if(keyIsDown(RIGHT_ARROW)){
+    //     x += speed;
+    // }
+    // if(keyIsDown(UP_ARROW)){
+    //     y-=speed;
+    // }
+    // if(keyIsDown(DOWN_ARROW)){
+    //     y+=speed
+    // }
+    // x = constrain(x,0,width);
+    // y = constrain(y,0,height);
+    // circle(x,y,80);
     }
 
