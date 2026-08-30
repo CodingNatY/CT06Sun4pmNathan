@@ -38,4 +38,7 @@ background(220);
     circle(ballx,bally,ballsize);
     ballx += ballspeedx;
     bally += ballspeedy;
+    if(ballx + (ballsize/2) >= width || ballx - (ballsize/2)<=0){
+        
+    }
 }
