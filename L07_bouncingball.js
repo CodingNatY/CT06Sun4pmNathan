@@ -34,5 +34,6 @@ function draw(){
 //     if(key === " "){
 //         picowidth/=2;
 //         popSound.loop();
-    circle(ballx,bally,ballsize)
+    circle(ballx,bally,ballsize);
+    
 }
