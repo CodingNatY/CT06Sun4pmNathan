@@ -36,5 +36,5 @@ function draw(){
 //         popSound.loop();
     circle(ballx,bally,ballsize);
     ballx += ballspeedx;
-    bally += ballspeedy
+    bally += ballspeedy;
 }
