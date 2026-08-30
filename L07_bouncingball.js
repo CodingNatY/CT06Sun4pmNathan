@@ -1,5 +1,5 @@
 let pico;
-let popSou
+let pop
 function setup(){
     createCanvas(400,400);}
 function preload(){
