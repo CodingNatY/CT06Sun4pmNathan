@@ -3,7 +3,8 @@
 let ballx = 300;
 let bally = 200;
 let ballsize = 30;
-let ballspeedx = 
+let ballspeedx = 20;
+lt =
 // let picowidth = 100;
 function setup(){
     createCanvas(400,400);}
