@@ -7,7 +7,7 @@ let ballspeedx = 0.1;
 let ballspeedy = 0.1;
 // let picowidth = 100;
 function setup(){
-    createCanvas(400,400);}
+    createCanvas(400,600);}
 // function preload(){
 //     let soundEffect = loadSound('assets/pop.mp3');
 //     let staticImage  = loadImage('assets/pico-a.png');  
