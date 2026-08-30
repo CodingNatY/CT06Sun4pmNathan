@@ -28,7 +28,7 @@ function draw(){
 }
 function keyPressed(){
     if(key === " "){
-        
+        picowidth
     }
 
 }
