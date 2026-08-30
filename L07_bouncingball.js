@@ -1,6 +1,6 @@
 // let pico;
 // let popSound;
-let ballx = 200;
+let ballx = 300;
 let bally = 200;
 // let picowidth = 100;
 function setup(){
