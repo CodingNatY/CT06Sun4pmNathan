@@ -28,7 +28,8 @@ function draw(){
 }
 function keyPressed(){
     if(key === " "){
-        picowidth
+        picowidth/=2;
+        popSound
     }
 
 }
