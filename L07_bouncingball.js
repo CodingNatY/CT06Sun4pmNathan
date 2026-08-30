@@ -16,6 +16,9 @@ function draw(){
         x -= 3
     }
     if(keyIsDown(RIGHT_ARROW)){
-        x +=
+        x += 3
+    }
+    if(keyIsDown(UP_ARROW)){
+        
     }
 }
