@@ -12,5 +12,7 @@ function preload(){
 
 function draw(){
      background(220);
-    if(keyIsDown(LEFT_ARROW))
+    if(keyIsDown(LEFT_ARROW)){
+        x -= 3
+    }
 }
