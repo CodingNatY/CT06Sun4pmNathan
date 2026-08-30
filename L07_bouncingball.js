@@ -35,5 +35,6 @@ function draw(){
 //         picowidth/=2;
 //         popSound.loop();
     circle(ballx,bally,ballsize);
-    ballx += ballspeedx
+    ballx += ballspeedx;
+    bally
 }
