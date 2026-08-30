@@ -1,6 +1,7 @@
 let pico;
 let popSound;
-let x = 200
+let x = 200;
+let y = 
 function setup(){
     createCanvas(400,400);}
 function preload(){
