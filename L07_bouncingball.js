@@ -15,6 +15,7 @@ function setup(){
 
 function draw(){
      background(220);
+     no
 //     if(keyIsDown(LEFT_ARROW)){
 //         x -= 3;
 //     }
