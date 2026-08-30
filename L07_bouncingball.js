@@ -1,7 +1,7 @@
 // let pico;
 // let popSound;
-// let x = 200;
-// let y = 200;
+let bx = 200;
+let y = 200;
 // let picowidth = 100;
 function setup(){
     createCanvas(400,400);}
