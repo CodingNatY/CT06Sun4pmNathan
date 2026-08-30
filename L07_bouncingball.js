@@ -25,4 +25,4 @@ function draw(){
         y+=3;
     }
 }
-Image(pico,x,y,picowidth,100)
+Image(pico,x,y,picowidth,100);
