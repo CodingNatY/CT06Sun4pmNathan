@@ -27,5 +27,6 @@ function draw(){
     Image(pico,x,y,picowidth,100);
 }
 function keyPressed(){
-    
+    if(key === " ")
+        
 }
