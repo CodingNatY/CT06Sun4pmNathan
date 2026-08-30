@@ -10,8 +10,8 @@ function setup(){
 //     let staticImage  = loadImage('assets/pico-a.png');  
 // }
 
-// function draw(){
-//      background(220);
+function draw(){
+     background(220);
 //     if(keyIsDown(LEFT_ARROW)){
 //         x -= 3;
 //     }
@@ -32,4 +32,4 @@ function setup(){
 //         popSound.loop();
 //     }
 
-// }
+}
