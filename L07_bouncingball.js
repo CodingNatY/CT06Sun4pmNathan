@@ -2,7 +2,8 @@
 // let popSound;
 let ballx = 300;
 let bally = 200;
-let ballsize
+let ballsize = 30;
+let
 // let picowidth = 100;
 function setup(){
     createCanvas(400,400);}
