@@ -21,5 +21,7 @@ function draw(){
     if(keyIsDown(UP_ARROW)){
         y-=3
     }
-    if(keyIsDown(DOWN_ARROW))
+    if(keyIsDown(DOWN_ARROW)){
+        y+=3
+    }
 }
