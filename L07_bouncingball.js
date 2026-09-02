@@ -41,4 +41,5 @@ background(220);
     if(ballx + (ballsize/2) >= width || ballx - (ballsize/2)<=0){
         ballspeedx = -ballspeedx
     }
+    if (bally + ())
 }
