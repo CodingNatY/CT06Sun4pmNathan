@@ -6,7 +6,7 @@ let food=["a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a
 let linegap = 30;
 let bgSound;
 function preload(){
-    bgSound = loadSound('assets/star_wars')
+    bgSound = loadSound('assets/star_wars_theme_')
 }
 function setup(){
     createCanvas(500,500);
