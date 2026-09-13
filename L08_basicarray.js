@@ -16,7 +16,7 @@ function draw(){
 //         fill(random(255),random(255),random(255));
 //     }
 textSize(32);
-text("",0,200);
+text(");
 
 
 }
