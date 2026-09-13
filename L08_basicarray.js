@@ -7,7 +7,6 @@ let linegap = 30
 function setup(){
     createCanvas(500,500);
     for(let i=0;i<26;i++){
-        food[i]=String.fromCharCode(97 + i); ;
     }
 }
 function draw(){
