@@ -4,7 +4,7 @@
 let ypos = height;
 let food=["AAAAAAA","aaaaaaa","AaAaAa"];
 function setup(){
-    createCanvas(2000,2000);
+    createCanvas(500,500);
     background(220)
 }
 function draw(){
