@@ -28,5 +28,5 @@ textAlign(LEFT);
 //     text(food[i],50,100+i*50);
 // }
 
-
+text
 }
