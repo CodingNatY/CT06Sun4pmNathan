@@ -1,7 +1,7 @@
 let x=200;
 let y=200;
 let speed=3;
-let food=[""]
+let food=[x,y,]
 function setup(){
     createCanvas(400,400);
       background(220);
