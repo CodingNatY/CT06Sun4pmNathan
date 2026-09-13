@@ -16,7 +16,7 @@ function draw(){
 //         fill(random(255),random(255),random(255));
 //     }
 textsize(32);
-text("hi cfhbgdhgvbsh",0,200);
+text("",0,200);
 
 
 }
