@@ -11,7 +11,7 @@ function draw(){
   
 
   square(x,y,40);
-  BACKGROUND
+  background(220)
   x+=speed;
     if(x<0 || x>=width-40){
         speed = -speed;
