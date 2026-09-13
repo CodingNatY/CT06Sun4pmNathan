@@ -18,5 +18,5 @@ function draw(){
 textSize(32);
 text("nathan",50,50);
 text("9",50,100);
-text("minecraft",50,150)
+text("minecraft",50,150);
 }
