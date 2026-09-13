@@ -20,7 +20,7 @@ function draw(){
  //    }
 background(0)
 textSize(32);
-fill()
+fill(255,255)
 textAlign(LEFT);
 
 // text("nathan",50,50);
