@@ -1,7 +1,7 @@
 // let x=200;
 // let y=200;
 // let speed=3;
-let ypos = height;
+let ypos = 500;
 let food=["AAAAAAA","aaaaaaa","AaAaAa"];
 function setup(){
     createCanvas(500,500);
