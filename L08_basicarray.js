@@ -9,12 +9,12 @@ function draw(){
     
   
     background(220);
-  square(x,y,40);
-  x+=speed;
-    if(x<0 || x>=width-40){
-        speed = -speed;
-        fill(random(255),random(255),random(255));
-    }
+//   square(x,y,40);
+//   x+=speed;
+//     if(x<0 || x>=width-40){
+//         speed = -speed;
+//         fill(random(255),random(255),random(255));
+//     }
 textsize(32);
 text("hi cfhbgdhgvbsh",0,200);
 
