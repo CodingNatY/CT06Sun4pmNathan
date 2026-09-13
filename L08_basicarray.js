@@ -5,7 +5,7 @@ let ypos = 500;
 let food=["AAAAAAA","aaaaaaa","AaAaAa"];
 function setup(){
     createCanvas(500,500);
-    background(220)
+ 
 }
 function draw(){
     
@@ -18,6 +18,7 @@ function draw(){
 //         speed = -speed;
 //         fill(random(255),random(255),random(255));
  //    }
+    background(220)
 textSize(32);
 fill(0)
 textAlign(LEFT);
