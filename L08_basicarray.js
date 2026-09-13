@@ -10,12 +10,12 @@ function draw(){
     
   
 
-// //   square(x,y,40);
-// //   x+=speed;
-// //     if(x<0 || x>=width-40){
-// //         speed = -speed;
-// //         fill(random(255),random(255),random(255));
-// //     }
+  square(x,y,40);
+  x+=speed;
+    if(x<0 || x>=width-40){
+        speed = -speed;
+        fill(random(255),random(255),random(255));
+     }
 textSize(32);
 textAlign(RIGHT)
 // text("nathan",50,50);
