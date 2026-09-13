@@ -15,7 +15,7 @@ function draw(){
 //         speed = -speed;
 //         fill(random(255),random(255),random(255));
 //     }
-textsize(32);
+textSize(32);
 text("",0,200);
 
 
