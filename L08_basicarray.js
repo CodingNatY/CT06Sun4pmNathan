@@ -6,7 +6,9 @@ let food=[];
 let linegap = 30
 function setup(){
     createCanvas(500,500);
-    for(let i=0;i<26;i++){}
+    for(let i=0;i<26;i++){
+        food[i]="a"+i;
+    }
 }
 function draw(){
     
