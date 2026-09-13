@@ -10,7 +10,7 @@ function draw(){
   
     background(220);
   square(x,y,40);
-  x+=3;
+  x+=speed;
     if(x<0 || x>=width-40){
         speed = -speed;
         fill(random(255),random(255),random(255));
