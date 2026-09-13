@@ -34,5 +34,8 @@ textAlign(LEFT);
 for(let i = 0 ; i < food.length ; i++){
     text(food[i],100,ypos+30+i*30);
 }
-ypos-=5
+ypos-=5;
+if(ypos < -food.length * linegap){
+    ypos = height
+}
 }
