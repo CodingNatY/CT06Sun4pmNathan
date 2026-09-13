@@ -10,8 +10,7 @@ function preload(){
 }
 function setup(){
     createCanvas(500,500);
-    for(let i=0;i<26;i++){
-    }
+    bgSound.loop()
 }
 function draw(){
     
