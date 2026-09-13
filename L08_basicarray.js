@@ -6,7 +6,7 @@ let food=["a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a","a
 let linegap = 30;
 let bgSound;
 function preload(){
-    bgSound = loadSound('ass')
+    bgSound = loadSound('assets/')
 }
 function setup(){
     createCanvas(500,500);
