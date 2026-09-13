@@ -4,14 +4,14 @@ let speed=3;
 let food=["x","y","speed"];
 function setup(){
     createCanvas(400,400);
-      
+    background(220)
 }
 function draw(){
     
   
 
   square(x,y,40);
-  background(220)
+
   x+=speed;
     if(x<0 || x>=width-40){
         speed = -speed;
