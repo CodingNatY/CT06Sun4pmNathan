@@ -36,6 +36,6 @@ for(let i = 0 ; i < food.length ; i++){
 }
 ypos-=5;
 if(ypos < -food.length * linegap){
-    ypos = 0
+    ypos = height
 }
 }
