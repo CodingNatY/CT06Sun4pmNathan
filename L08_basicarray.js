@@ -18,8 +18,10 @@ function draw(){
 //     }
 textSize(32);
 textAlign(RIGHT)
-text("nathan",50,50);
-text("9",50,100);
-text("minecraft",50,150);
-
+// text("nathan",50,50);
+// text("9",50,100);
+// text("minecraft",50,150);
+for(let i=0 ; food.length ;i++ ){
+    text(food[i],50,100+i*50);
+}
 }
