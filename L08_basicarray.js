@@ -18,7 +18,7 @@ function draw(){
 //         speed = -speed;
 //         fill(random(255),random(255),random(255));
  //    }
-    background(220)
+background(220)
 textSize(32);
 fill(0)
 textAlign(LEFT);
