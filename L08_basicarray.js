@@ -16,7 +16,7 @@ function draw(){
 //         fill(random(255),random(255),random(255));
 //     }
 textSize(32);
-textAglign
+textAlign()
 // text("nathan",50,50);
 // text("9",50,100);
 // text("minecraft",50,150);
