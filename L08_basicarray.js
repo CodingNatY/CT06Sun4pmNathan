@@ -20,8 +20,9 @@ function draw(){
  //    }
 background(0)
 textSize(32);
-fill(0)
+fill()
 textAlign(LEFT);
+
 // text("nathan",50,50);
 // text("9",50,100);
 // text("minecraft",50,150);
