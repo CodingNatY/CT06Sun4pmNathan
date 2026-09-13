@@ -3,7 +3,7 @@ let y=200;
 let speed=3;
 let food=["x","y","speed"]
 function setup(){
-    createCanvas(4000,400);
+    createCanvas(400,400);
       background(220);
 }
 function draw(){
