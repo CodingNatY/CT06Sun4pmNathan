@@ -8,7 +8,7 @@ let countdown = 5;
 let interval;
 let bgmusic;
 function preload(){
-    let bgmusic=loadSound('assets/bossaNova.mp3');
+    bgmusic=loadSound('assets/bossaNova.mp3');
 }
 function setup(){
     createCanvas(600,400);
