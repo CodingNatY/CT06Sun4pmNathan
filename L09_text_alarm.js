@@ -8,4 +8,5 @@ function setup(){
 function draw(){
     text(x,y,"bounce");
     background(220);
+    
 }
