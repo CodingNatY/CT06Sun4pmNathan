@@ -4,7 +4,7 @@
 let countdown = 5;
 let interval;
 function preload(){
-    
+    let bgmusic=
 }
 function setup(){
     createCanvas(600,400);
