@@ -35,9 +35,11 @@ function updateCountdown(){
         countdown-=1;
     }else{
         clearInterval(interval);
-
-}
     }
+}
+function alarm(){
+
+}    
     if(countdown==0){
         interval=setInterval(updateCountdown,500);
         background(random(255),random(255),random(255));
