@@ -44,7 +44,7 @@ function updateCountdown(){
 function alarm(){
         colourr=random(255);
         colourg=random(255);
-        colourb
+        colourb=random(255);
         bgmusic.play()
 }
  
