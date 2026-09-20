@@ -43,7 +43,8 @@ function updateCountdown(){
 }
 function alarm(){
         colourr=random(255);
-        
+        colourg=random(255);
+        colourb
         bgmusic.play()
 }
  
