@@ -22,7 +22,7 @@ function draw(){
     // text(string,100,200);
     text(countdown,width/2,height/2);
     textSize
-    text("click t(o start the timer",w,300);
+    text("click to start the timer",w,300);
 
 }
 function mousePressed(){
