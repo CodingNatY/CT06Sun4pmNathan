@@ -1,8 +1,9 @@
 // let speed = 3;
 // let x=50;
 // let y=200;
-let h=hour()
-let m=minute
+let h=hour();
+let m=minute();
+
 function setup(){
     createCanvas(600,400);
 }
