@@ -3,7 +3,9 @@
 // let y=200;
 let countdown = 5;
 let interval;
-
+function preload(){
+    
+}
 function setup(){
     createCanvas(600,400);
 }
