@@ -24,5 +24,5 @@ function draw(){
 
 }
 function mousePressed(){
-    
+    interval = set
 }
