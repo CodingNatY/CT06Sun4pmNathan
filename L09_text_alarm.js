@@ -8,5 +8,10 @@ function setup(){
 function draw(){
     text(x,y,"bounce");
     background(220);
-    x+=speed
+    if(x==0 || x==400){
+        speed = -speed
+    }
+
+    
+    x+=speed;
 }
