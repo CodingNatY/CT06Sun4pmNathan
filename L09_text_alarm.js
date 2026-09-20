@@ -3,7 +3,7 @@
 // let y=200;
 let h=hour();
 let m=minute();
-let s=second
+let s=second()
 function setup(){
     createCanvas(600,400);
 }
@@ -15,4 +15,5 @@ function draw(){
     // x+=speed;
     // if(x<0 || x>600-60){
     //     speed = -speed;
+    
 }
