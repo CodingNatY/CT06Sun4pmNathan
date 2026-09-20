@@ -2,7 +2,7 @@
 // let x=50;
 // let y=200;
 let countdown = 5;
-let in
+let interval;
 function setup(){
     createCanvas(600,400);
 }
