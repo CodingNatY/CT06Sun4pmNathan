@@ -38,7 +38,7 @@ function updateCountdown(){
     }
 }
 function alarm(){
-
+    
 }    
     if(countdown==0){
         interval=setInterval(updateCountdown,500);
