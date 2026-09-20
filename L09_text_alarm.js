@@ -27,5 +27,7 @@ function mousePressed(){
     interval = setInterval(updateCountdown,100000);
 }
 function updateCountdown(){
-    if(countdown>0){}
+    if(countdown>0){
+        
+    }
 }
