@@ -4,7 +4,7 @@
 let countdown = 5;
 let interval;
 function preload(){
-    let bgmusic=bossaNova.mp3
+    let bgmusic=bossaNova.mp3;
 }
 function setup(){
     createCanvas(600,400);
@@ -38,6 +38,6 @@ function updateCountdown(){
     }
     if(countdown==0){
         interval=setInterval(updateCountdown,500);
-
+        
     }
 }
