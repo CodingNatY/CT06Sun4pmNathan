@@ -30,6 +30,6 @@ function updateCountdown(){
     if(countdown>0){
         countdown-=1;
     }else{
-        clea
+        clearInterval(interval)
     }
 }
