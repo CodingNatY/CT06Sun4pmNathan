@@ -42,7 +42,7 @@ function updateCountdown(){
     }
 }
 function alarm(){
-        background();
+        background(colourr);
         bgmusic.play()
 }
  
