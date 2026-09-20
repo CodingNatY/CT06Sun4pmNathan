@@ -23,9 +23,6 @@ function draw(){
     text(countdown,width/2,height/2);
     textSize(32);
     text("click to start the timer",100,300);
-    if(countdown==0){
-        
-    }
 }
 function mousePressed(){
     interval = setInterval(updateCountdown,1000);
@@ -36,4 +33,5 @@ function updateCountdown(){
     }else{
         clearInterval(interval);
     }
+    
 }
