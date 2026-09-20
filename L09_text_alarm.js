@@ -16,5 +16,5 @@ function draw(){
     // x+=speed;
     // if(x<0 || x>600-60){
     //     speed = -speed;
-    
+    string=nf
 }
