@@ -6,6 +6,7 @@ function setup(){
 
 }
 function draw(){
+    fill(0)
     textSize(32);
     text("bounce",x,y);
     background(220);
