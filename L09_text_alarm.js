@@ -38,6 +38,6 @@ function updateCountdown(){
     }
     if(countdown==0){
         interval=setInterval(updateCountdown,500);
-        
+        bgmusic.play()
     }
 }
