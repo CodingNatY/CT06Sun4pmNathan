@@ -14,7 +14,7 @@ function draw(){
     // if(x<0 || x>600-60){
     //     speed = -speed;
     let h=hour();
-let m=minute();
-let s=second();
-    string=nf
+    let m=minute();
+    let s=second();
+    string=nf()
 }
