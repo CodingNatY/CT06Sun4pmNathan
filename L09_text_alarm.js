@@ -1,2 +1,3 @@
 let speed = 3;
-let x=0
+let x=50;
+le
