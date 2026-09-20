@@ -1,7 +1,7 @@
 // let speed = 3;
 // let x=50;
 // let y=200;
-
+let count
 function setup(){
     createCanvas(600,400);
 }
@@ -19,5 +19,5 @@ function draw(){
     // let s=second();
     // let string=nf(h,2)+":"+nf(m,2)+":"+nf(s,2);
     // text(string,100,200);
-    
+
 }
