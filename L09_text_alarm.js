@@ -31,7 +31,9 @@ function draw(){
     textSize(32);
     text("click to start the timer",100,300);
     text("press space to restart timer",100,350);
-    
+    if(keyCode===32){
+        
+    }
 }
 
 function mousePressed(){
