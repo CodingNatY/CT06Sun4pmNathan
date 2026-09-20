@@ -4,7 +4,6 @@
 let h=hour();
 let m=minute();
 let s=second();
-let string;
 function setup(){
     createCanvas(600,400);
 }
