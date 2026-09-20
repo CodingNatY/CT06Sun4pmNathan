@@ -34,7 +34,7 @@ function draw(){
     text("press space to restart timer",100,350);
     if(key===' '){
         countdown=5;
-        bgsound.stop();
+        bgmusic.stop();
         colourr=0;
         colourg=0;
         colourb=0;
