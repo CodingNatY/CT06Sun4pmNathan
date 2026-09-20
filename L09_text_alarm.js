@@ -3,7 +3,6 @@ let x=50;
 let y=200;
 function setup(){
     createCanvas(600,400);
-
 }
 function draw(){
     background(220);
@@ -14,7 +13,4 @@ function draw(){
     if(x==0 || x==400){
         speed = -speed;
     }
-
-    
-
 }
