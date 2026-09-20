@@ -42,7 +42,7 @@ function updateCountdown(){
         countdown-=1;
     }else{
         clearInterval(interval);
-        setInterval(alarm,500);
+        alarminterval=setInterval(alarm,500);
     }
 }
 function alarm(){
