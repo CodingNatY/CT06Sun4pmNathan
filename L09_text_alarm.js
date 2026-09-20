@@ -42,7 +42,8 @@ function updateCountdown(){
     }
 }
 function alarm(){
-        colourr=random(255)l
+        colourr=random(255);
+        
         bgmusic.play()
 }
  
