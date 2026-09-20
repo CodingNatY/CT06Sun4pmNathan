@@ -3,6 +3,7 @@
 // let y=200;
 let countdown = 5;
 let interval;
+
 function setup(){
     createCanvas(600,400);
 }
@@ -34,6 +35,7 @@ function updateCountdown(){
         clearInterval(interval);
     }
     if(countdown==0){
-        interval=setInterval(updateCountdown)
+        interval=setInterval(updateCountdown,500);
+
     }
 }
