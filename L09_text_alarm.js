@@ -38,7 +38,7 @@ function updateCountdown(){
     }
     if(countdown==0){
         interval=setInterval(updateCountdown,500);
-        background(random(255),random(255),random())
+        background(random(255),random(255),random(255));
         bgmusic.play()
     }
 }
