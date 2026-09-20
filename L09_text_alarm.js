@@ -38,7 +38,7 @@ function draw(){
         colourr=0;
         colourg=0;
         colourb=0
-        clear
+        clearInterval(alarminterval)
     }
 }
 
