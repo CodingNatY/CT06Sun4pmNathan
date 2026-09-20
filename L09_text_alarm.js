@@ -21,7 +21,7 @@ function draw(){
     // let string=nf(h,2)+":"+nf(m,2)+":"+nf(s,2);
     // text(string,100,200);
     text(countdown,width/2,height/2);
-    textSize
+    textSize(32);
     text("click to start the timer",w,300);
 
 }
