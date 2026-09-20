@@ -36,7 +36,8 @@ function draw(){
         countdown=5;
         bgsound.stop();
         colourr=0;
-        colourg
+        colourg=0;
+        colourb=0
     }
 }
 
