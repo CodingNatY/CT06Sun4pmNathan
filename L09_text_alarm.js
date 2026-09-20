@@ -2,7 +2,8 @@
 // let x=50;
 // let y=200;
 let colourr=0;
-let colourg
+let colourg=0
+let colourb=0
 let countdown = 5;
 let interval;
 function preload(){
