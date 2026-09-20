@@ -6,7 +6,7 @@ function setup(){
 
 }
 function draw(){
-    text(x,y,"bounce");
+    text();
     background(220);
     if(x==0 || x==400){
         speed = -speed
