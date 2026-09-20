@@ -30,7 +30,7 @@ function draw(){
     text(countdown,width/2,height/2);
     textSize(32);
     text("click to start the timer",100,300);
-    text("press space to restart timer",)
+    text("press space to restart timer",100,350);
 }
 
 function mousePressed(){
