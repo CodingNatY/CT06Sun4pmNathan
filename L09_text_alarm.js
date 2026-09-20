@@ -13,7 +13,7 @@ function setup(){
     createCanvas(600,400);
 }
 function draw(){
-    background(col);
+    background(colourr,co);
     // fill(0);
     textSize(100);
     
