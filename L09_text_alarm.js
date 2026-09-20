@@ -33,7 +33,8 @@ function draw(){
     text("click to start the timer",100,300);
     text("press space to restart timer",100,350);
     if(key===' '){
-        countdown
+        countdown=5;
+        bgsound
     }
 }
 
