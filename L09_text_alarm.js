@@ -35,7 +35,8 @@ function draw(){
     if(key===' '){
         countdown=5;
         bgsound.stop();
-        co
+        colourr=0;
+        colourg
     }
 }
 
