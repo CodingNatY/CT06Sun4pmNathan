@@ -6,11 +6,10 @@ function setup(){
 }
 function draw(){
     background(220);
-    fill(0);
-    textSize(32);
-    text("bounce",x,y);
-    x+=speed;
-    if(x<0 || x>600-60){
-        speed = -speed;
+    // fill(0);
+    // textSize(32);
+    // text("bounce",x,y);
+    // x+=speed;
+    // if(x<0 || x>600-60){
+    //     speed = -speed;
     }
-}
