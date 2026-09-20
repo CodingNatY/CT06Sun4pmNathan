@@ -11,6 +11,6 @@ function draw(){
     text("bounce",x,y);
     x+=speed;
     if(x==0 || x==400){
-        speed = -speed;
+        speed = 0-speed;
     }
 }
