@@ -34,6 +34,6 @@ function updateCountdown(){
         clearInterval(interval);
     }
     if(countdown==0){
-        interval=set
+        interval=setInterval
     }
 }
