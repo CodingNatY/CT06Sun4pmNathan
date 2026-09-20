@@ -1,2 +1,2 @@
 let speed = 3;
-let 
+let x=0
