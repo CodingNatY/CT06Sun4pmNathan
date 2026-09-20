@@ -6,5 +6,6 @@ function setup(){
     background(220);
 }
 function draw(){
-    text(x,y,"bo")
+    text(x,y,"bounce");
+    
 }
