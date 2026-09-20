@@ -9,7 +9,7 @@ function setup(){
 function draw(){
     background(220);
     // fill(0);
-    textSize(32);
+    textSize(100);
     
     // text("bounce",x,y);
     // x+=speed;
@@ -20,5 +20,5 @@ function draw(){
     // let s=second();
     // let string=nf(h,2)+":"+nf(m,2)+":"+nf(s,2);
     // text(string,100,200);
-
+    
 }
