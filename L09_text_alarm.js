@@ -1,1 +1,2 @@
-let speed 
+let speed = 3;
+let 
