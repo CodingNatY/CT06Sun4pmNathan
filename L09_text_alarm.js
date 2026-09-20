@@ -7,7 +7,7 @@ let colourb=0
 let countdown = 5;
 let interval;
 let bgmusic;
-let alarminter
+let alarminterv
 function preload(){
     bgmusic=loadSound('assets/bossaNova.mp3');
 }
