@@ -16,7 +16,7 @@ function setup(){
 }
 function draw(){
     background(colourr,colourg,colourb);
-    // fill(0);
+    fill(220);
     textSize(100);
     
     // text("bounce",x,y);
