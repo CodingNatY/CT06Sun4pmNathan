@@ -37,7 +37,7 @@ function draw(){
         bgsound.stop();
         colourr=0;
         colourg=0;
-        colourb=0
+        colourb=0;
         clearInterval(alarminterval);
     }
 }
