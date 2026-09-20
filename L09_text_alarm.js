@@ -35,6 +35,7 @@ function updateCountdown(){
         countdown-=1;
     }else{
         clearInterval(interval);
+        setin
     }
 }
 function alarm(){
