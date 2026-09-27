@@ -27,7 +27,7 @@
 //     userText2 = this.value();
 // }
 let r=220
-
+let g=220
 function setup(){
     createCanvas(400,400);
 }
