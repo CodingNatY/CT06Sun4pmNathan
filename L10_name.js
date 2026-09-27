@@ -6,9 +6,9 @@ let agetext = "ENTER AGE HERE";
 let bgcolorpicker;
 let bgcolorpicker2;
 let bgcolorpicker3;
-let sound;
+let sounds;
 function preload(){
-    sound = loadSound('assets/bossaNova.mp3');
+    sounds = loadSound('assets/bossaNova.mp3');
 }
 function setup(){
     createCanvas(400,400);
@@ -33,7 +33,7 @@ function setup(){
 function draw(){
       
     background(bgcolorpicker.value());
-    sound.loop();
+    sounds.loop();
     fill(bgcolorpicker2.value())
 
     rect(50,100,300,150,50);
