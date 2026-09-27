@@ -29,12 +29,13 @@
 let r=220;
 let g=220;
 let b=220;
-let countdown;
+let countdownnum
 function setup(){
     createCanvas(400,400);
 }
 function draw(){
     background(r,g,b);
     setInterval(countdown,1000);
-    
+
 }
+function countdown()
