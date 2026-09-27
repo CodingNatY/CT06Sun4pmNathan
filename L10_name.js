@@ -37,7 +37,8 @@ function setup(){
 function draw(){
     background(r,g,b);
     countdownnum=setInterval(countdown,1000);
-    textSiz
+    textSize(24);
+    text
 
 }
 function countdown(){
