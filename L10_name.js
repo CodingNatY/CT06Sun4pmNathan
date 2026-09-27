@@ -32,9 +32,9 @@
 // let countdownnum;
 // let countdowntimer=60;
 let userinput;
-let usertext = "enter text here";
+let usertext = "enter age here";
 let userinput2;
-let usertext2 = "enter text here";
+let usertext2 = "enter name here";
 function setup(){
     createCanvas(400,400);
     userinput=createInput();
@@ -64,8 +64,7 @@ function draw(){
 
 }
 function updateText(){
-    usertext = this.value
-    ();
+    usertext = this.value();
 }
 function updateText2(){
     usertext2 = this.value();
