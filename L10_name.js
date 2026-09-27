@@ -35,5 +35,5 @@ function setup(){
 }
 function draw(){
     background(r,g,b);
-    setIn
+    setInterval()
 }
