@@ -38,4 +38,6 @@ function draw(){
     setInterval(countdown,1000);
 
 }
-function countdown()
+function countdown(){
+    
+}
