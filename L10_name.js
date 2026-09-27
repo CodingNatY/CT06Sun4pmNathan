@@ -6,6 +6,10 @@ let agetext = "ENTER AGE HERE";
 let bgcolorpicker;
 let bgcolorpicker2;
 let bgcolorpicker3;
+let sound;
+function preload(){
+    sound 
+}
 function setup(){
     createCanvas(400,400);
     userinput = createInput();
