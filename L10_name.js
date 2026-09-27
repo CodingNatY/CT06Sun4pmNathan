@@ -1,6 +1,6 @@
 // write your codes here  
 let userinput;
-let usertext = "ENTER TEXT HERE";
+let usertext = "ENTER NAME HERE";
 let ageinput;
 let agetext = "ENTER AGE HERE";
 let bgcolorpicker;
