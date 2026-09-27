@@ -32,7 +32,7 @@
 // let countdownnum;
 // let countdowntimer=60;
 let userinput;
-let usertext = "enter text here";
+let usertext;
 let userinput2;
 let usertext2;
 function setup(){
@@ -56,7 +56,7 @@ function draw(){
     // textSize(12);
     // text("enter name",50,height-70)
     text(usertext,100,150);
-    
+
 
 }
 function updateText(){
