@@ -39,8 +39,8 @@ function setup(){
     createCanvas(400,400);
     userinput=createInput();
     userinput.position(100,350);
-    userinput2=createInput()
-    
+    userinput2=createInput();
+    user
 
 }
 function draw(){
