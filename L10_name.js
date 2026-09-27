@@ -27,3 +27,6 @@
 //     userText2 = this.value();
 // }
 
+function setup(){
+    
+}
