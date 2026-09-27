@@ -33,7 +33,6 @@
 // let countdowntimer=60;
 let userinput;
 let usertext = "enter text here";
-
 let userinput2;
 let usertext2 = "enter text here";
 function setup(){
