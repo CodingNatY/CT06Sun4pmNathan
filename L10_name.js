@@ -33,10 +33,12 @@
 // let countdowntimer=60;
 let userinput;
 let usertext = "enter text here";
+let 
 function setup(){
     createCanvas(400,400);
     userinput=createInput();
-    userinput.position(100,300);
+    userinput.position(100,350);
+
 }
 function draw(){
     // background(r,g,b);
