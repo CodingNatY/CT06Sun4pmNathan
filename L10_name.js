@@ -46,8 +46,8 @@ function setup(){
     userinput.input(updateText);
     userinput2.input(updateText2);
 
-    bgcolourpicker=createColourPicker(220);
-    
+    bgcolorpicker=createColourPicker(220);
+
 
 }
 function draw(){
