@@ -29,7 +29,8 @@
 let r=220;
 let g=220;
 let b=220;
-let countdownnum
+let countdownnum;
+let countdowntimer=60;
 function setup(){
     createCanvas(400,400);
 }
@@ -39,5 +40,7 @@ function draw(){
 
 }
 function countdown(){
-
+    if(countdowntimer>0){
+        
+    }
 }
