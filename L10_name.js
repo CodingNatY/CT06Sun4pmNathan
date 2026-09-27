@@ -8,7 +8,7 @@ let bgcolorpicker2;
 let bgcolorpicker3;
 let sound;
 function preload(){
-    sound = loadSound('assets/')
+    sound = loadSound('assets/bossaNova.mp3');
 }
 function setup(){
     createCanvas(400,400);
