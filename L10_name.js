@@ -43,7 +43,7 @@ function setup(){
     userinput2=createInput();
     userinput2.position(100,375);
     userinput.input(updateText);
-    userinput2
+    userinput2.input(upd)
 
 }
 function draw(){
