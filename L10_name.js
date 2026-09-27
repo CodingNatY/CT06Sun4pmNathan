@@ -32,7 +32,7 @@
 // let countdownnum;
 // let countdowntimer=60;
 let userinput;
-let
+let usertext
 function setup(){
     createCanvas(400,400);
 }
