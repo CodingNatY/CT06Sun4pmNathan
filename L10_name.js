@@ -35,6 +35,7 @@ let userinput;
 let usertext = "enter age here";
 let userinput2;
 let usertext2 = "enter name here";
+let bgcolour
 function setup(){
     createCanvas(400,400);
     userinput=createInput();
@@ -45,7 +46,7 @@ function setup(){
     userinput.input(updateText);
     userinput2.input(updateText2);
 
-    bgcol
+    
 
 }
 function draw(){
