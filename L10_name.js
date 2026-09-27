@@ -15,7 +15,7 @@ function setup(){
     ageinput.input(updateAge);
 
     bgcolorpicker = createColorPicker(220);
-    bgcolorpicker.position(width/2-90 , 350);
+    bgcolorpicker.position(width/2-90 , 300);
 }
 
 function draw(){
