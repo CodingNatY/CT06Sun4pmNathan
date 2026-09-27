@@ -52,6 +52,9 @@ function draw(){
     text("enter name",50,height-70)
 
 }
+function updateText(){
+    usertext = this.value
+}
 // function countdown(){
 //     if(countdowntimer>0){
 //         countdown-=1
