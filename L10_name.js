@@ -34,7 +34,7 @@ function draw(){
       
     background(bgcolorpicker.value());
     if(key === 'r' || key === 'R'){
-       sounds.loop();
+       sounds.play();
     }
     
     fill(bgcolorpicker2.value())
