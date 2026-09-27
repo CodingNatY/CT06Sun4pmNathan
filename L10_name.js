@@ -41,6 +41,7 @@ function draw(){
     // textAglign(CENTER,CENTER);
     // text(countdowntimer,width/2,height/2);
     background(220);
+    textSize
 
 }
 // function countdown(){
