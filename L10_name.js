@@ -11,7 +11,7 @@ function setup(){
     userinput.input(updateText);
 
     ageinput = createInput();
-    ageinput.position(width/2 - 90 ,375)
+    ageinput.position(width/2 - 90 ,400)
     ageinput.input(updateAge);
 
     bgcolorpicker = createColorPicker(220);
