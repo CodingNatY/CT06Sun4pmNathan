@@ -42,7 +42,8 @@ function setup(){
 
     userinput2=createInput();
     userinput2.position(100,375);
-    userinput.input()
+    userinput.input(updateText);
+    
 
 }
 function draw(){
