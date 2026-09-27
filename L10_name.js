@@ -38,7 +38,7 @@ function draw(){
     background(r,g,b);
     countdownnum=setInterval(countdown,1000);
     textSize(24);
-    textAglign()
+    textAglign(CENTER,CENTER);
 
 }
 function countdown(){
