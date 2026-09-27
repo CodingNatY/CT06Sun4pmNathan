@@ -33,7 +33,7 @@ function draw(){
 
     rect(50,100,300,150,50);
     fill(bgcolorpicker3.value());
-    fill
+    fill(0)
     textSize(12);
     text("Pick color: ",50 , 300)
     textSize(24);
