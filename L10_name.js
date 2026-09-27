@@ -33,7 +33,10 @@ function setup(){
 function draw(){
       
     background(bgcolorpicker.value());
-    sounds.loop();
+    if(key === 'r' || key === 'R'){
+       sounds.loop();
+    }
+    
     fill(bgcolorpicker2.value())
 
     rect(50,100,300,150,50);
