@@ -34,6 +34,6 @@ function setup(){
     createCanvas(400,400);
 }
 function draw(){
-    backgrond(r,g,b);
+    background(r,g,b);
     
 }
