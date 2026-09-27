@@ -48,6 +48,8 @@ function countdown(){
         r=random(0,255);
         g=random(0,255);
         b=random(0,255);
+    }else{
+        clearInterval
     }
-    
+
 }
