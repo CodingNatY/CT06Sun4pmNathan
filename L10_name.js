@@ -55,6 +55,7 @@ function draw(){
     // text(usertext,width/2,height/2);
     // textSize(12);
     // text("enter name",50,height-70)
+    text()
 
 }
 function updateText(){
