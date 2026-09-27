@@ -19,7 +19,7 @@ function setup(){
     bgcolorpicker = createColorPicker(220);
     bgcolorpicker.position(width/2-90 , 365);
 
-    bgcolorpicker2 = createColorPicker(220);
+    bgcolorpicker2 = createColorPicker(255);
     bgcolorpicker2.position(width/2-90,340);
 
     bgcolorpicker3 = createColorPicker(220);
