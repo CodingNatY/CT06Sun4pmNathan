@@ -56,7 +56,7 @@ function draw(){
 
 }
 function updateText(){
-    usertext = this.value
+    usertext = this.value;
 }
 // function countdown(){
 //     if(countdowntimer>0){
