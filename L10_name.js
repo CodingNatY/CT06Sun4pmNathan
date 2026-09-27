@@ -33,7 +33,8 @@
 // let countdowntimer=60;
 let userinput;
 let usertext = "enter text here";
-let 
+let userinput2;
+
 function setup(){
     createCanvas(400,400);
     userinput=createInput();
