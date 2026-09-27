@@ -42,14 +42,14 @@ function draw(){
     text(countdowntimer,width/2,height/2);
 
 }
-function countdown(){
-    if(countdowntimer>0){
-        countdown-=1
-        r=random(0,255);
-        g=random(0,255);
-        b=random(0,255);
-    }else{
-        clearInterval(countdownnum);
-    }
+// function countdown(){
+//     if(countdowntimer>0){
+//         countdown-=1
+//         r=random(0,255);
+//         g=random(0,255);
+//         b=random(0,255);
+//     }else{
+//         clearInterval(countdownnum);
+//     }
 
-}
+// }
