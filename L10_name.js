@@ -49,7 +49,7 @@ function countdown(){
         g=random(0,255);
         b=random(0,255);
     }else{
-        clearInterval
+        clearInterval(countdownnum);
     }
 
 }
