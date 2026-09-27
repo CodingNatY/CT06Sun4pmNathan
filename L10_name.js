@@ -40,7 +40,7 @@ function setup(){
     userinput=createInput();
     userinput.position(100,350);
     userinput2=createInput();
-    userinput2.position
+    userinput2.position()
 
 }
 function draw(){
