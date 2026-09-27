@@ -23,7 +23,7 @@ function setup(){
     bgcolorpicker2.position(width/2-90,340);
 
     bgcolorpicker3 = createColorPicker(220);
-    bgcolorpicker3.position(width/2-90,3   );
+    bgcolorpicker3.position(width/2-90,315             tmj                                                      mvyk,lpgthmiob);
 }
 
 function draw(){
