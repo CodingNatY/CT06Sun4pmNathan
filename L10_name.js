@@ -31,8 +31,9 @@ function setup(){
 }
 
 function draw(){
-      sound.loop();
+      
     background(bgcolorpicker.value());
+    sound.loop();
     fill(bgcolorpicker2.value())
 
     rect(50,100,300,150,50);
