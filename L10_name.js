@@ -44,6 +44,6 @@ function countdown(){
         countdown-=1
         r=random(0,255);
         g=random(0,255);
-        b
+        b=random(0,255);
     }
 }
