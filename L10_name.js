@@ -47,7 +47,7 @@ function setup(){
     userinput2.input(updateText2);
 
     bgcolorpicker=createColorPicker(220);
-    bgcolourpicker.position()
+    bgcolourpicker.position(100,75)
 
 
 }
