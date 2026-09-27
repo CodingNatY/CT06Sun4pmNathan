@@ -42,6 +42,7 @@ function draw(){
     textAlign(CENTER,CENTER);
     text(agetext,width/2,height/2);
     textSize(12);
+    fill(0);
     text("Enter name",50 , height-70)
     textSize(12);
     text("Enter age",50 , height-40)
