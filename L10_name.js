@@ -35,11 +35,11 @@ function setup(){
     createCanvas(400,400);
 }
 function draw(){
-    background(r,g,b);
-    countdownnum=setInterval(countdown,1000);
-    textSize(24);
-    textAglign(CENTER,CENTER);
-    text(countdowntimer,width/2,height/2);
+    // background(r,g,b);
+    // countdownnum=setInterval(countdown,1000);
+    // textSize(24);
+    // textAglign(CENTER,CENTER);
+    // text(countdowntimer,width/2,height/2);
 
 }
 // function countdown(){
