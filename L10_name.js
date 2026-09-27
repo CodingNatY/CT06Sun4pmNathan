@@ -41,6 +41,6 @@ function draw(){
 }
 function countdown(){
     if(countdowntimer>0){
-        
+        countdown
     }
 }
