@@ -41,6 +41,7 @@ function draw(){
 }
 function countdown(){
     if(countdowntimer>0){
-        countdown
+        countdown-=1
+        r=random(0,255);
     }
 }
