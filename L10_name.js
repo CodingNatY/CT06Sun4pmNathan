@@ -35,6 +35,7 @@ let userinput;
 let usertext;
 let userinput2;
 let usertext2;
+let updateText;
 
 function setup(){
     createCanvas(400,400);
