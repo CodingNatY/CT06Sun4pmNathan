@@ -8,7 +8,7 @@ let bgcolorpicker2;
 let bgcolorpicker3;
 let sounds;
 function preload(){
-    sounds = loadSound('asset.mp3');
+    sounds = loadSound('assets/pop.mp3');
 }
 function setup(){
     createCanvas(400,400);
