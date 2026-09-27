@@ -7,11 +7,11 @@ let bgcolorpicker;
 function setup(){
     createCanvas(400,400);
     userinput = createInput();
-    userinput.position(width/2 - 90 ,height - 80 )
+    userinput.position(width/2 - 90 ,425);
     userinput.input(updateText);
 
     ageinput = createInput();
-    ageinput.position(width/2 - 90 ,400)
+    ageinput.position(width/2 - 90 ,400);
     ageinput.input(updateAge);
 
     bgcolorpicker = createColorPicker(220);
