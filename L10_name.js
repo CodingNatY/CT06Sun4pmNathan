@@ -4,7 +4,7 @@ let usertext = "ENTER NAME HERE";
 let ageinput;
 let agetext = "ENTER AGE HERE";
 let bgcolorpicker;
-let bgcolorpicker2
+let bgcolorpicker2;
 function setup(){
     createCanvas(400,400);
     userinput = createInput();
