@@ -34,7 +34,7 @@
 let userinput;
 let usertext;
 let userinput2;
-let usertext2;
+let usertext2 = ""
 function setup(){
     createCanvas(400,400);
     userinput=createInput();
