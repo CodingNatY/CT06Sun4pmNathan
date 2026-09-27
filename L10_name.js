@@ -35,7 +35,8 @@ let userinput;
 let usertext;
 function setup(){
     createCanvas(400,400);
-    userinput=createInp
+    userinput=createInput;
+    user
 }
 function draw(){
     // background(r,g,b);
