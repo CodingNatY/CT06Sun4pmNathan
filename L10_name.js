@@ -47,7 +47,7 @@ function draw(){
     background(220);
     textSize(24);
     textAlign(CENTER,CENTER);
-    text()
+    text(usertext,width/2)
 
 }
 // function countdown(){
