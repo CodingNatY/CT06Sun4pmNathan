@@ -26,8 +26,9 @@
 // function updateText2(){
 //     userText2 = this.value();
 // }
-let r=220
-let g=220
+let r=220;
+let g=220;
+let b=220
 function setup(){
     createCanvas(400,400);
 }
