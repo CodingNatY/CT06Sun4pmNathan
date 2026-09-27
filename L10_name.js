@@ -39,7 +39,7 @@ function draw(){
     countdownnum=setInterval(countdown,1000);
     textSize(24);
     textAglign(CENTER,CENTER);
-    text(count)
+    text(countdowntimer,width/2,)
 
 }
 function countdown(){
