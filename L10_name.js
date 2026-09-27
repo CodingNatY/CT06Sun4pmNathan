@@ -32,7 +32,7 @@ function draw(){
     fill(bgcolorpicker2.value())
 
     rect(50,100,300,150,50);
-    fill(bgcolorpicker3.value);
+    fill(bgcolorpicker3.value());
     textSize(12);
     text("Pick color: ",50 , 300)
     textSize(24);
