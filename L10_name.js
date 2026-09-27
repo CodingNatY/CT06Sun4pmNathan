@@ -25,7 +25,7 @@ function draw(){
     rect(50,100,300,150,50);
     fill(0);
     textSize(12);
-    text("Pick color: ",50 , )
+    text("Pick color: ",50 , 300)
     textSize(24);
     textAlign(CENTER,CENTER);
     text(usertext,width/2,height/2-40); 
