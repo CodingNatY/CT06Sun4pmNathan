@@ -31,7 +31,7 @@
 // let b=220;
 // let countdownnum;
 // let countdowntimer=60;
-let
+let user
 function setup(){
     createCanvas(400,400);
 }
