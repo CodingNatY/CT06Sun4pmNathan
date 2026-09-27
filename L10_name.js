@@ -59,6 +59,7 @@ function draw(){
     // textSize(12);
     // text("enter name",50,height-70)
     text(usertext,100,150);
+    text(usertext2,)
 
 
 }
