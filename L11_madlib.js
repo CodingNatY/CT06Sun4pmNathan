@@ -35,5 +35,5 @@ function updatetext(){
     console.log("verb: "+verbinput.value());
     console.log("adjective: "+adjinput.value());
     console.log("adverb: "+adverbinput.value());
-    console.log(": "+nouninput.value());
+    console.log("place: "+nouninput.value());
 }
