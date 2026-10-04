@@ -1,5 +1,5 @@
-let nouninput = "eg.chicken";
-let verbinpu;
+let nouninput;
+let verbinput;
 let adjinput;
 let adverbinput;
 let placeinput;
