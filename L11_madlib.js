@@ -9,7 +9,9 @@ function setup(){
     nouninput=createInput();
     nouninput.position(width/2,100);
     verbinput=createInput();
-    v.position(width/2,100);
+    verbinput.position(width/2,100);
+    adjinput=createInput();
+    nouninput.position(width/2,100);
     button=createButton("update story");
     button.position(width/2,135);
     button.mousePressed(updatetext);
