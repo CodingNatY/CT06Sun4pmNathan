@@ -12,7 +12,7 @@ function draw(){
     background(220);
     textSize(24);
     textAlign(RIGHT,CENTER);
-    text("give me your name",width/2-20,110);
+    text("give me a noun",width/2-20,110);
 }
 function updatetext(){
     console.log("hello, "+textinput.value());
