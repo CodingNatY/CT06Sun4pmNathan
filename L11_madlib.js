@@ -8,8 +8,8 @@ let storytext="";
 let storytemplates;
 function setup(){
     storytemplates[
-        "The {adj} {noun} {verb} {adv} at {place}."
-
+        "The {adj} {noun} {verb} {adv} at {place}.",
+        "One"
     ]
     createCanvas(700,800);
     nouninput=createInput();
