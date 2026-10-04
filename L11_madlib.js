@@ -43,4 +43,10 @@ function updatetext(){
     console.log("adjective: "+adjinput.value());
     console.log("adverb: "+adverbinput.value());
     console.log("place: "+placeinput.value());
+     storytext= random(storytemplates);
+    storytext = storytext.replace("{noun}",nouninput.value());
+    storytext = storytext.replace("{verb}",verbinput.value());
+    storytext = storytext.replace("{adj}",adjinput.value());
+    storytext = storytext.replace("{adv}",adverbinput.value());
+    storytext = storytext.replace("{place}",placeinput.value());
 }
