@@ -27,8 +27,8 @@ function draw(){
     text("give me a noun",width/2-20,110);
     text("give me a verb",width/2-20,140);
     text("give me an adjective",width/2-20,170);
-    text("give me a adverb",width/2-20,110);
-    text("give me a nou",width/2-20,110);
+    text("give me an adverb",width/2-20,200);
+    text("give me a place",width/2-20,110);
 }
 function updatetext(){
     console.log("hello, "+textinput.value());
