@@ -2,12 +2,13 @@ let nouninput;
 let verbinput;
 let adjinput;
 let adverbinput;
-let placeinput;
+let placeinput
 let button;
 function setup(){
     createCanvas(700,800);
     nouninput=createInput();
     nouninput.position(width/2,100);
+
     button=createButton("update story");
     button.position(width/2,135);
     button.mousePressed(updatetext);
