@@ -1,6 +1,6 @@
 let nouninput = "eg.chicken";
-let verbinput = ""
-let adjinput;
+let verbinput = "eg. ate"
+let adjinput
 let adverbinput;
 let placeinput
 let button;
