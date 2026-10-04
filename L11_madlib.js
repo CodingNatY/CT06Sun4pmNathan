@@ -1,7 +1,7 @@
 let nouninput = "eg.chicken";
 let verbinput = "eg. ate";
 let adjinput = "eg.happily";
-let adverbinput = "eg"
+let adverbinput = "eg.hp"
 let placeinput
 let button;
 let storytext="";
