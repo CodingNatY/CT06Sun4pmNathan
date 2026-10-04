@@ -11,12 +11,7 @@ function setup(){
         "The {adj} {noun} {verb} {adv} at {place}.",
         "One day, a {adj} {noun} wanted to {verb} {adv} in {place}"
     ]
-    storytext= random(storytemplates);
-    storytext = storytext.replace("{noun}",nouninput.value());
-    storytext = storytext.replace("{verb}",verbinput.value());
-    storytext = storytext.replace("{adj}",adjinput.value());
-    storytext = storytext.replace("{adv}",adverbinput.value());
-    storytext = storytext.replace("{place}",placeinput.value());
+   
     createCanvas(700,800);
     nouninput=createInput();
     nouninput.position(width/2,100);
