@@ -38,6 +38,7 @@ function draw(){
     text("give me a place",width/2-20,230);
     textSize(64);
     textAlign(CENTER,CENTER);
+    text
 }
 function updatetext(){
     console.log("noun: "+nouninput.value());
