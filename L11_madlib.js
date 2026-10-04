@@ -13,8 +13,8 @@ function setup(){
     ]
     storytext= random(storytemplates);
     storytext = storytext.replace("{noun}",nouninput.value());
-    storytext = storytext.replace("{verb}",verbinput.valus);
-    storytext = storytext.replace("{adj}","");
+    storytext = storytext.replace("{verb}",verbinput.value);
+    storytext = storytext.replace("{adj}","ad");
     createCanvas(700,800);
     nouninput=createInput();
     nouninput.position(width/2,100);
