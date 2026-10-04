@@ -13,7 +13,7 @@ function setup(){
     ]
     storytext= random(storytemplates);
     storytext = storytext.replace("{noun}","dog");
-    storytext = storytext.replace("{}","dog");
+    storytext = storytext.replace("{verb}","happie");
     createCanvas(700,800);
     nouninput=createInput();
     nouninput.position(width/2,100);
