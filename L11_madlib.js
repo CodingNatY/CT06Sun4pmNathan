@@ -13,9 +13,9 @@ function setup(){
     adjinput=createInput();
     adjinput.position(width/2,130);
     adverbinput=createInput();
-    adverbinput.position(width/2,100);
+    adverbinput.position(width/2,145);
     placeinput=createInput();
-    placeinput.position(width/2,100);
+    placeinput.position(width/2,160);
     button=createButton("update story");
     button.position(width/2,135);
     button.mousePressed(updatetext);
