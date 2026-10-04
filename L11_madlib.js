@@ -31,5 +31,5 @@ function draw(){
     text("give me a place",width/2-20,230);
 }
 function updatetext(){
-    console.log("hello, "+textinput.value());
+    console.log("noun:, "+textinput.value());
 }
