@@ -36,7 +36,7 @@ function draw(){
     text("give me an adjective",width/2-20,170);
     text("give me an adverb",width/2-20,200);
     text("give me a place",width/2-20,230);
-    textSize(64);
+    textSize(32);
     textAlign(CENTER,CENTER);
     text(storytext,width/2,height/2);
 }
