@@ -7,7 +7,7 @@ let button;
 let storytext="";
 let storytemplates;
 function setup(){
-    storytemplates[
+    storytemplates = [
         "The {adj} {noun} {verb} {adv} at {place}.",
         "One day, a {adj} {noun} wanted to {verb} {adv} in {place}"
     ]
