@@ -11,7 +11,8 @@ function setup(){
         "The {adj} {noun} {verb} {adv} at {place}.",
         "One day, a {adj} {noun} wanted to {verb} {adv} in {place}"
     ]
-    storytext= random()
+    storytext= random(storytemplates);
+    storytext
     createCanvas(700,800);
     nouninput=createInput();
     nouninput.position(width/2,100);
