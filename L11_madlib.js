@@ -10,7 +10,7 @@ function setup(){
     storytemplates = [
         "The {adj} {noun} {verb} {adv} at {place}.",
         "One day, a {adj} {noun} wanted to {verb} {adv} in {place}",
-        "Today, a {noun} "
+        "Today, a {adj} {noun} "
     ]
    
     createCanvas(700,800);
