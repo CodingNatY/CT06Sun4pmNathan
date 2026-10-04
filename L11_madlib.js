@@ -11,6 +11,7 @@ function setup(){
         "The {adj} {noun} {verb} {adv} at {place}.",
         "One day, a {adj} {noun} wanted to {verb} {adv} in {place}"
     ]
+    
     createCanvas(700,800);
     nouninput=createInput();
     nouninput.position(width/2,100);
