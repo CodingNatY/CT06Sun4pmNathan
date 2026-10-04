@@ -7,10 +7,10 @@ let button;
 let storytext="";
 let storytemplates;
 function setup(){
-    // storytemplates[
-    //     "The {adj} {noun} {verb} {adv} at {place} for no reason."
+    storytemplates[
+        "The {adj} {noun} {verb} {adv} at {place}."
 
-    // ]
+    ]
     createCanvas(700,800);
     nouninput=createInput();
     nouninput.position(width/2,100);
