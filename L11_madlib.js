@@ -7,5 +7,6 @@ function draw(){
     background(220);
     textinput=createInput();
     textinput.position(width/2,100);
-    button=createButton("click me for no reson")
+    button=createButton("click me for no reason");
+    button
 }
