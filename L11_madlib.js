@@ -4,7 +4,7 @@ function setup(){
     createCanvas(700,800);
     nouninput=createInput();
     nouninput.position(width/2,100);
-    button=createButton("click me");
+    button=createButton("update ");
     button.position(width/2,135);
     button.mousePressed(updatetext);
 }
