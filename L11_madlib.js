@@ -24,8 +24,9 @@ function draw(){
     background(220);
     textSize(24);
     textAlign(RIGHT,CENTER);
-    text("give me a noun",width/2-20,100);
-    text("give me a verb",width/2-20,130);
+    text("give me a noun",width/2-20,110);
+    text("give me a verb",width/2-20,110);
+    
 }
 function updatetext(){
     console.log("hello, "+textinput.value());
