@@ -17,7 +17,7 @@ function setup(){
     placeinput=createInput();
     placeinput.position(width/2,220);
     button=createButton("update story");
-    button.position(width/2,135);
+    button.position(width/2,250);
     button.mousePressed(updatetext);
 }
 function draw(){
