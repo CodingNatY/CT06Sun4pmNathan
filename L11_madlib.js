@@ -9,7 +9,7 @@ let storytemplates;
 function setup(){
     storytemplates[
         "The {adj} {noun} {verb} {adv} at {place}.",
-        "One"
+        "One day, a {"
     ]
     createCanvas(700,800);
     nouninput=createInput();
