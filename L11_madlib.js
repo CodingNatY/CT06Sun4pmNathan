@@ -9,9 +9,9 @@ function setup(){
     nouninput=createInput();
     nouninput.position(width/2,100);
     verbinput=createInput();
-    verbinput.position(width/2,100);
+    verbinput.position(width/2,115);
     adjinput=createInput();
-    adjinput.position(width/2,100);
+    adjinput.position(width/2,130);
     adverbinput=createInput();
     adverbinput.position(width/2,100);
     placeinput=createInput();
