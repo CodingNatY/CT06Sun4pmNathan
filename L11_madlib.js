@@ -9,11 +9,11 @@ function setup(){
     nouninput=createInput();
     nouninput.position(width/2,100);
     verbinput=createInput();
-    verbinput.position(width/2,115);
+    verbinput.position(width/2,130);
     adjinput=createInput();
-    adjinput.position(width/2,130);
+    adjinput.position(width/2,160);
     adverbinput=createInput();
-    adverbinput.position(width/2,145);
+    adverbinput.position(width/2,1);
     placeinput=createInput();
     placeinput.position(width/2,160);
     button=createButton("update story");
