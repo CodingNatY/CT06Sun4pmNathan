@@ -25,7 +25,7 @@ function draw(){
     textSize(24);
     textAlign(RIGHT,CENTER);
     text("give me a noun",width/2-20,110);
-    text("give me a verb",width/2-20,110);
+    text("give me a verb",width/2-20,);
     text("give me an adjective",width/2-20,110);
 }
 function updatetext(){
