@@ -12,7 +12,7 @@ function setup(){
         "One day, a {adj} {noun} wanted to {verb} {adv} in {place}"
     ]
     storytext= random(storytemplates);
-    storytext = storytext.replace("{noun}","dog");
+    storytext = storytext.replace("{noun}",);
     storytext = storytext.replace("{verb}","happily");
     storytext = storytext.replace("{adj}","");
     createCanvas(700,800);
