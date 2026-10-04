@@ -2,7 +2,7 @@ let nouninput;
 let verbinput;
 let adjinput;
 let adverbinput;
-
+let placeinput;
 let button;
 function setup(){
     createCanvas(700,800);
