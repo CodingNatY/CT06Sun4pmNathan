@@ -6,7 +6,7 @@ function setup(){
     textinput.position(width/2,100);
     button=createButton("click me");
     button.position(width/2,135);
-    button.mousePressed
+    button.mousePressed(updatetext)
 }
 function draw(){
     background(220);
