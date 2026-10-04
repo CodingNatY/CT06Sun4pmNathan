@@ -1,4 +1,4 @@
-let textinput;
+let nouninput;
 let button;
 function setup(){
     createCanvas(700,800);
