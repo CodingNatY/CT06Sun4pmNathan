@@ -8,6 +8,6 @@ function setup(){
     button.position(width/2,135);
 }
 function draw(){
-    background("red");
+    background(220);
 
 }
