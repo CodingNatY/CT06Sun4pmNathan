@@ -1,4 +1,4 @@
-let nouninput
+let nouninput = "eg."
 let verbinput;
 let adjinput;
 let adverbinput;
