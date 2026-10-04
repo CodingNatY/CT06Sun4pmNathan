@@ -8,5 +8,5 @@ function draw(){
     textinput=createInput();
     textinput.position(width/2,100);
     button=createButton("click me for no reason");
-    button.position()
+    button.position(width/2,135);
 }
