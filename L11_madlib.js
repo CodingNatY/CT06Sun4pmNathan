@@ -36,6 +36,7 @@ function draw(){
     text("give me an adjective",width/2-20,170);
     text("give me an adverb",width/2-20,200);
     text("give me a place",width/2-20,230);
+    te
 }
 function updatetext(){
     console.log("noun: "+nouninput.value());
