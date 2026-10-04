@@ -32,5 +32,6 @@ function draw(){
 }
 function updatetext(){
     console.log("noun: "+nouninput.value());
+    console.log("verb: "+verbinput.value());
     console.log("noun: "+nouninput.value());
 }
