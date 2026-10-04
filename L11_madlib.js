@@ -16,7 +16,7 @@ function setup(){
     storytext = storytext.replace("{verb}",verbinput.value());
     storytext = storytext.replace("{adj}",adjinput.value());
     storytext = storytext.replace("{adv}",adverbinput.value());
-    storytext = storytext.replace("{place}","dog");
+    storytext = storytext.replace("{place}",placeinput.val);
     createCanvas(700,800);
     nouninput=createInput();
     nouninput.position(width/2,100);
