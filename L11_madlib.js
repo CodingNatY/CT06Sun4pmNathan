@@ -9,7 +9,7 @@ let storytemplates;
 function setup(){
     storytemplates[
         "The {adj} {noun} {verb} {adv} at {place} for no reason."
-
+        
     ]
     createCanvas(700,800);
     nouninput=createInput();
