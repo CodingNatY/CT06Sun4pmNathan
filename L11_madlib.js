@@ -11,5 +11,5 @@ function draw(){
     background(220);
     textSize(24);
     textAlign(RIGHT,CENTER);
-    textinput("give me your name",width/2-);
+    textinput("give me your name",width/2-20,110);
 }
