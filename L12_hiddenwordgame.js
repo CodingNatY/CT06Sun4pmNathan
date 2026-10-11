@@ -33,5 +33,5 @@ function draw(){
      textSize(16);
      text("attemps:0",width/2,130);
      text("hint: "+hint,width/2,160);
-     te
+     text(typedword)
 }
