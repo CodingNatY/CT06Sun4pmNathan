@@ -40,3 +40,6 @@ function showword(){
     typedword=userinput.value();
     correctletter=getCorrectLetters(typedword,selected)
 }
+function getCorrectLetters(guess,word){
+    
+}
