@@ -29,5 +29,5 @@ function draw(){
     fill(0);
     textAlign(CENTER);
      textSize(18);
-     text("guess the ")
+     text("guess da hiddan ward")
 }
