@@ -6,7 +6,7 @@ let word=["bingbing","lingling","xingxing"]
 let selected;
 let typedword;
 let hint;
-let correctletter
+let correctletter=""
 function setup(){
     createCanvas(600,400);
     // utext=createInput();
@@ -27,5 +27,5 @@ function setup(){
 function draw(){
     background(220);
     fill(0);
-    textAlign
+    textAlign()
 }
