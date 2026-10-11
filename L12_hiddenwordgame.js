@@ -2,6 +2,7 @@
 // let button;
 let userinput;
 let submitbutton;
+let word
 function setup(){
     createCanvas(600,400);
     // utext=createInput();
