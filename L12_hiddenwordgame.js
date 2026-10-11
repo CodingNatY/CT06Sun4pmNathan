@@ -3,13 +3,14 @@
 let userinput;
 let submitbutton;
 function setup(){
-    // createCanvas(600,400);
+    createCanvas(600,400);
     // utext=createInput();
     // utext.position(200,100);
     // button=createButton();
+    
 }
 function draw(){
-    // background(220);
+    background(220);
     
     // text(text,300,200);
 }
