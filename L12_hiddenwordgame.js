@@ -11,7 +11,8 @@ function setup(){
     // utext=createInput();
     // utext.position(200,100);
     // button=createButton();
-    hint=selected.charAt(0).toUpperCase
+    hint=selected.charAt(0).toUpperCase();
+    for (let i=1;i<selected.length;i)
     let selected=random(word)
     userinput=createInput();
     userinput.position(220,260);
