@@ -31,5 +31,5 @@ function draw(){
      textSize(18);
      text("guess da hiddan ward",width,100);
      textSize(16);
-     text("attemps:0")
+     text("attemps:0",width/2,)
 }
