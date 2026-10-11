@@ -34,5 +34,5 @@ function draw(){
      text("attemps:0",width/2,130);
      text("hint: "+hint,width/2,160);
      text(typedword,width/2,320);
-    text("correct letters: ")
+    text("correct letters: "+correctletter)
 }
