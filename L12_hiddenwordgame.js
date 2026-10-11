@@ -2,9 +2,9 @@ let utext;
 let button;
 function setup(){
     createCanvas(600,400);
-    utext=createinput();
+    utext=createInput();
     utext.position(200,100);
-    button=createButton
+    button=createButton()
 }
 function draw(){
     background(220);
