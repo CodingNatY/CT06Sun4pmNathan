@@ -2,7 +2,7 @@
 // let button;
 let userinput;
 let submitbutton;
-let word
+let word=[""]
 function setup(){
     createCanvas(600,400);
     // utext=createInput();
