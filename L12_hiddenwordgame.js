@@ -1,6 +1,7 @@
 // let utext;
 // let button;
 let userinput;
+let su
 function setup(){
     // createCanvas(600,400);
     // utext=createInput();
