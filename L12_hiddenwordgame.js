@@ -6,6 +6,7 @@ let word=["bingbing","lingling","xingxing"]
 let selected;
 let typedword;
 let hint;
+
 function setup(){
     createCanvas(600,400);
     // utext=createInput();
