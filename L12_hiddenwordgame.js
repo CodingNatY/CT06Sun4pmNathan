@@ -30,5 +30,5 @@ function draw(){
     textAlign(CENTER);
      textSize(18);
      text("guess da hiddan ward",width,100);
-     textSize()
+     textSize(16)
 }
