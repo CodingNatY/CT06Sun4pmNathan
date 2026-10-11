@@ -9,7 +9,7 @@ function setup(){
     // button=createButton();
     userinput=createInput();
     userinput.position(220,260);
-    userinput.size(80,30);
+    userinput.size(150,30)
 }
 function draw(){
     background(220);
