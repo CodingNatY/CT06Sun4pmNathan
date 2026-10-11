@@ -17,5 +17,4 @@ function setup(){
 function draw(){
     background(220);
     
-    // text(text,300,200);
 }
