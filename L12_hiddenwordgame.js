@@ -12,7 +12,7 @@ function setup(){
     userinput.size(150,30);
     submitbutton=createButton();
     submitbutton.position(335,260);
-
+    
 }
 function draw(){
     background(220);
