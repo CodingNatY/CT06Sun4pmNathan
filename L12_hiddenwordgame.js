@@ -7,7 +7,7 @@ function setup(){
     // utext=createInput();
     // utext.position(200,100);
     // button=createButton();
-    input
+    userinput=create
 }
 function draw(){
     background(220);
