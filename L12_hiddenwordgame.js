@@ -11,6 +11,7 @@ function setup(){
     // utext=createInput();
     // utext.position(200,100);
     // button=createButton();
+    
     let selected=random(word)
     userinput=createInput();
     userinput.position(220,260);
