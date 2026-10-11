@@ -38,5 +38,5 @@ function draw(){
 }
 function showword(){
     typedword=userinput.value();
-    correctletter=getCorrectLetters()
+    correctletter=getCorrectLetters(typedword,selected)
 }
