@@ -4,7 +4,7 @@ function setup(){
     createCanvas(600,400);
     utext=createInput();
     utext.position(200,100);
-    button=createButton()
+    button=createButton();
 }
 function draw(){
     background(220);
