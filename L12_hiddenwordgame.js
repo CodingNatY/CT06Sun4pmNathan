@@ -37,5 +37,6 @@ function draw(){
     text("correct letters: "+correctletter,width/2,320);
 }
 function showword(){
-    typedword=userinput.value
+    typedword=userinput.value();
+    
 }
