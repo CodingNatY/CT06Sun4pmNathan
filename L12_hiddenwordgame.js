@@ -10,6 +10,7 @@ function setup(){
     // utext=createInput();
     // utext.position(200,100);
     // button=createButton();
+    
     userinput=createInput();
     userinput.position(220,260);
     userinput.size(80,30);
