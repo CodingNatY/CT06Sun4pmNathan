@@ -3,7 +3,7 @@
 let userinput;
 let submitbutton;
 let word=["bingbing","lingling","xingxing"]
-
+let selectedddd
 function setup(){
     createCanvas(600,400);
     // utext=createInput();
