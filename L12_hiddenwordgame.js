@@ -1,5 +1,6 @@
-let utext;
-let button;
+// let utext;
+// let button;
+
 function setup(){
     // createCanvas(600,400);
     // utext=createInput();
@@ -11,4 +12,3 @@ function draw(){
     
     // text(text,300,200);
 }
-// function 
