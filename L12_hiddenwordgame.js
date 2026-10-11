@@ -7,5 +7,5 @@ function setup(){
 function draw(){
     background(220);
     
-    text(text,)
+    text(text,300,200);
 }
