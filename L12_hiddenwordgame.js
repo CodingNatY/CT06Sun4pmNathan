@@ -43,5 +43,5 @@ function showword(){
 function getCorrectLetters(guess,word){
     let correctletter="";
     guess=guess.toLowerCase();
-    
+    word=word.to
 }
