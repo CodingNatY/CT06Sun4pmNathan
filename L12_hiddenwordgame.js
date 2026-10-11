@@ -11,6 +11,7 @@ function setup(){
     // utext=createInput();
     // utext.position(200,100);
     // button=createButton();
+    
     hint=selected.charAt(0).toUpperCase();
     for (let i=1;i<selected.length;i++){
         hint=hint+"_"
