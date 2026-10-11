@@ -29,7 +29,7 @@ function draw(){
     fill(0);
     textAlign(CENTER);
      textSize(18);
-     text("guess da hiddan ward",width,100);
+     text("guess da hiddan ward",width/2,100);
      textSize(16);
      text("attemps:0",width/2,130);
      text("hint: "+hint,width/2,160);
