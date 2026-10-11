@@ -2,7 +2,7 @@
 // let button;
 let userinput;
 let submitbutton;
-let word=["bingbing","lingling","ching"]
+let word=["bingbing","lingling","chingching",]
 function setup(){
     createCanvas(600,400);
     // utext=createInput();
