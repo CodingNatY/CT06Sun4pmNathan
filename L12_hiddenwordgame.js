@@ -8,7 +8,8 @@ function setup(){
     // utext.position(200,100);
     // button=createButton();
     userinput=createInput();
-    userinput.position(220,260)
+    userinput.position(220,260);
+    userinput.size
 }
 function draw(){
     background(220);
