@@ -13,7 +13,7 @@ function setup(){
     // button=createButton();
     hint=selected.charAt(0).toUpperCase();
     for (let i=1;i<selected.length;i++){
-        hint=hint
+        hint=hint+"_"
     }
     let selected=random(word)
     userinput=createInput();
