@@ -6,5 +6,5 @@ function draw(){
     background(220);
     text=createinput();
     text.position(200,100);
-    
+    text
 }
