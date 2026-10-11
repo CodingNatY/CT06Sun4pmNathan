@@ -11,12 +11,11 @@ function setup(){
     // utext=createInput();
     // utext.position(200,100);
     // button=createButton();
-    
+    let selected=random(word);
     hint=selected.charAt(0).toUpperCase();
     for (let i=1;i<selected.length;i++){
         hint=hint+"_"
     }
-    let selected=random(word)
     userinput=createInput();
     userinput.position(220,260);
     userinput.size(80,30);
