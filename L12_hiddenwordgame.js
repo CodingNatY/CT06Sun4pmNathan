@@ -5,5 +5,5 @@ function setup(){
 function draw(){
     background(220);
     text=createinput();
-    tex
+    text.position
 }
