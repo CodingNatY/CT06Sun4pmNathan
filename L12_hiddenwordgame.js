@@ -41,5 +41,5 @@ function showword(){
     correctletter=getCorrectLetters(typedword,selected)
 }
 function getCorrectLetters(guess,word){
-    
+    let correctletter
 }
