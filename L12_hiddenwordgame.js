@@ -36,3 +36,6 @@ function draw(){
      text(typedword,width/2,320);
     text("correct letters: "+correctletter,width/2,320);
 }
+function showword(){
+    
+}
