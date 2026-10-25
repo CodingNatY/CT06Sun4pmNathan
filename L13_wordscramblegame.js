@@ -63,6 +63,6 @@ function checkAnswer(){
         if(streak>maxstreak){
             maxstreak=streak
         }
-        
+        message="correct"
     }
 }
