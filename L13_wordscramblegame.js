@@ -6,6 +6,6 @@ function setup(){
     textbox=createInput("enter text here")
     textbox.position(200,100)
     textbox.size(200,40)
-    innput
+    
 
 }
