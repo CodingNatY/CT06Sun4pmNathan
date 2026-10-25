@@ -14,4 +14,8 @@ function setup(){
     button.style("font-size","16px")
 
     button.mousePressed(displaytext)
+
+}
+function draw(){
+    
 }
