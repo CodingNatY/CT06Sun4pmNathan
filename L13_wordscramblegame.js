@@ -66,6 +66,7 @@ function checkAnswer(){
         message="correct"
         currentword=random(word)
         scrambleword=shuffleWord(currentword)
+    }else{
         
     }
 }
