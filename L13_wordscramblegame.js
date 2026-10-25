@@ -18,5 +18,4 @@ function setup(){
 }
 function draw(){
     text(displaytext,300,230)
-    
 }
