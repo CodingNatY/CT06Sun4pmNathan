@@ -1,7 +1,7 @@
 // let textbox,button
 // let displaytext
 let word=["nathan","nathan2","nathan3"]
-let currentword, scramble
+let currentword, scrambleword,rescramble
 function setup(){
     createCanvas(600,600)
     background(220)
