@@ -8,7 +8,9 @@ let streak=0
 let maxstreak=0
 let message=""
 function setup(){
+    currentword
     createCanvas(600,400)
+
     input=createInput("enter text here")
     input.position(245,175)
     input.size(110,30)
