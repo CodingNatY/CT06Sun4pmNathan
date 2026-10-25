@@ -56,5 +56,5 @@ function rescrambleWord(){
 }
 
 function checkAnswer(){
-    let answer = input.value
+    let answer = input.value().trim()
 }
