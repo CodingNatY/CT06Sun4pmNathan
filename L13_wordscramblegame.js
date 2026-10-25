@@ -64,5 +64,6 @@ function checkAnswer(){
             maxstreak=streak
         }
         message="correct"
+        currentword=random
     }
 }
