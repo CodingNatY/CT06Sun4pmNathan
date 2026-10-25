@@ -60,6 +60,8 @@ function checkAnswer(){
     if (answer === currentword){
         score++
         streak++
-        if
+        if(streak>maxstreak){
+            
+        }
     }
 }
