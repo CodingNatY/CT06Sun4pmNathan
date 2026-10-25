@@ -1,5 +1,6 @@
-let textbox,button
-let displaytext
+// let textbox,button
+// let displaytext
+let 
 function setup(){
     createCanvas(600,600)
     background(220)
