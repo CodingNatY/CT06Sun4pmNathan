@@ -5,6 +5,6 @@ function setup(){
     background(220)
     textbox=createInput("enter text here")
     textbox.position(200,100)
-    
+    textbox.size()
 
 }
