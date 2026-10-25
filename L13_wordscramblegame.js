@@ -41,5 +41,5 @@ function draw(){
     text(message,300,315)
 }
 function shuffleWord(){
-    
+    let arr
 }
