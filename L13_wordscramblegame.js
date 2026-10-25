@@ -23,7 +23,8 @@ function setup(){
     submitbutton = createButton("submit")
     submitbutton.position(375,175)
     submitbutton.size(100,35)
-    submitbutton.style("font-si")
+    submitbutton.style("font-size","16px")
+    
 
     
 }
