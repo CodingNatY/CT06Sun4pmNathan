@@ -1,5 +1,5 @@
 let textbox
 function setup(){
-    create
+    createCanvas(600,600)
     textbox=createInput()
 }
