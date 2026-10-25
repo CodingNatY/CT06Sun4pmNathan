@@ -39,6 +39,6 @@ function draw(){
     text("streak: "+streak + "MAX: "+ maxstreak,300,275)
     text(message,300,315)
 }
-function sh(){
+function shuffleWord(){
 
 }
