@@ -22,7 +22,7 @@ function setup(){
 
     submitbutton = createButton("submit")
     submitbutton.position(375,175)
-    sub
+    submitbutton.size(100,35)
 
     
 }
