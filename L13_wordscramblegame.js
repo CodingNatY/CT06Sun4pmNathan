@@ -11,7 +11,7 @@ function setup(){
     createCanvas(600,400)
     input=createInput("enter text here")
     input.position(200,100)
-    textbox.size(200,40)
+    input.size(200,40)
     textbox.style("font-size","16px")
 
     button=createButton("display")
