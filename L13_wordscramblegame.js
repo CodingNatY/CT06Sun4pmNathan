@@ -16,7 +16,7 @@ function setup(){
 
     rescramblebutton=createButton("rescramble")
     rescramblebutton.position(120,175)
-    rescramblebutton.size(100,30)
+    rescramblebutton.size(110,35)
     rescramblebutton.style("font-size","16px")
 
     button.mousePressed(displaytext)
