@@ -37,7 +37,7 @@ function draw(){
     textSize(16)
     text("score: "+ score,300,250)
     text("streak: "+streak + "MAX: "+ maxstreak,300,275)
-    text
+    text(message,)
 }
 function rescrambleWord(){
 
