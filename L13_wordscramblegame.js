@@ -14,7 +14,7 @@ function setup(){
     input.size(200,40)
     input.style("font-size","16px")
 
-    button=createButton("display")
+    rebutton=createButton("display")
     button.position(250,160)
     button.size(100,30)
     button.style("font-size","16px")
