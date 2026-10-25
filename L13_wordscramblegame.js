@@ -34,7 +34,7 @@ function draw(){
     background(220)
     text("word scramble game",300,60)
     textSize(18)
-    text("random word: " + currentword,300,125)
+    text("random word: " + scrambleword,300,125)
     textSize(16)
     text("score: "+ score,300,250)
     text("streak: "+streak + "MAX: "+ maxstreak,300,275)
@@ -55,5 +55,5 @@ function rescrambleWord(){
 }
 
 function checkAnswer(){
-    
+
 }
