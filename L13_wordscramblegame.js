@@ -51,5 +51,9 @@ function displaytext(){
     displaytext=input.value()
 }
 function rescrambleWord(){
+
+}
+
+function checkAnswer(){
     
 }
