@@ -20,7 +20,8 @@ function setup(){
     rescramblebutton.style("font-size","16px")
     button.mousePressed(rescrambleWord)
 
-    submitbutton = createButton(submit")
+    submitbutton = createButton("submit")
+    sub
 
     
 }
