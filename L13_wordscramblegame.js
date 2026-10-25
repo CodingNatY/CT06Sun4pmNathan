@@ -72,4 +72,3 @@ function checkAnswer(){
     }
     input.value("")
 }
-functi
