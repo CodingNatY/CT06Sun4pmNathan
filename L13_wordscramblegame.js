@@ -9,7 +9,7 @@ let maxstreak=0
 let message=""
 function setup(){
     currentword=random(word)
-    scrambleword=shuffleWord
+    scrambleword=shuffleWord(currentword)
     createCanvas(600,400)
 
     input=createInput("enter text here")
