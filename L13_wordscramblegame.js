@@ -13,4 +13,5 @@ function setup(){
     button.size(100,30)
     button.style("font-size","16px")
 
+    button.mouse
 }
