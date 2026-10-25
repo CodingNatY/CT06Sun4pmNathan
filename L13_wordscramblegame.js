@@ -5,7 +5,7 @@ let currentword, scrambleword,input,rescramblebutton,submitbutton
 
 let score=0
 let streak=0
-
+let maxstreak
 function setup(){
     createCanvas(600,600)
     background(220)
