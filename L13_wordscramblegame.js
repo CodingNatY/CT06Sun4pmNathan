@@ -70,5 +70,5 @@ function checkAnswer(){
         streak=0
         message="try again"
     }
-    input.value
+    input.value("")
 }
