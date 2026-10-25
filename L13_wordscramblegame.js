@@ -36,7 +36,7 @@ function draw(){
     text("random word: " + currentword,300,125)
     textSize(16)
     text("score: "+ score,300,250)
-    text("streak: "+streak + "MAX")
+    text("streak: "+streak + "MAX: "+ maxstreak)
 }
 function rescrambleWord(){
 
