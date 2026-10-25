@@ -10,7 +10,7 @@ let message=""
 function setup(){
     createCanvas(600,400)
     input=createInput("enter text here")
-    input.position(200,100)
+    input.position(245,175)
     input.size(200,40)
     input.style("font-size","16px")
 
