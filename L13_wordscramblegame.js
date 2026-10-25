@@ -31,7 +31,7 @@ function setup(){
 }
 function draw(){
     background(220)
-    text("word scramble game")
+    text("word scramble game",300,60)
     textSize(18)
     text("random word: " + currentword,300,125)
     textSize(16)
