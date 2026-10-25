@@ -9,7 +9,6 @@ let maxstreak=0
 let message=""
 function setup(){
     createCanvas(600,400)
-    background(220)
     textbox=createInput("enter text here")
     textbox.position(200,100)
     textbox.size(200,40)
