@@ -61,7 +61,8 @@ function checkAnswer(){
         score++
         streak++
         if(streak>maxstreak){
-            maxstreak
+            maxstreak=streak
         }
+        
     }
 }
