@@ -68,7 +68,7 @@ function checkAnswer(){
         scrambleword=shuffleWord(currentword)
     }else{
         streak=0
-        mess
-        age="try again"
+        message="try again"
     }
+    input.value
 }
