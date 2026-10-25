@@ -67,6 +67,6 @@ function checkAnswer(){
         currentword=random(word)
         scrambleword=shuffleWord(currentword)
     }else{
-        
+        streak
     }
 }
