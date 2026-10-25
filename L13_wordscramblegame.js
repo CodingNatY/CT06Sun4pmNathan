@@ -50,4 +50,6 @@ function shuffleWord(word){
 function displaytext(){
     displaytext=input.value()
 }
-function scrambleword
+function rescrambleWord(){
+    
+}
