@@ -18,7 +18,7 @@ function setup(){
     rescramblebutton.position(120,175)
     rescramblebutton.size(110,35)
     rescramblebutton.style("font-size","16px")
-    butt
+    button.mouse
 
     
 }
