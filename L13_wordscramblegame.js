@@ -21,7 +21,8 @@ function setup(){
     button.mousePressed(rescrambleWord)
 
     submitbutton = createButton("submit")
-    submitbutton.position(375)
+    submitbutton.position(375,175)
+    sub
 
     
 }
