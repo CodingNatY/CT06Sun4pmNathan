@@ -45,6 +45,6 @@ function getCorrectLetters(guess,word){
     guess=guess.toLowerCase();
     word=word.toLowerCase();
     for(let i=0;i<guess.length;i++){
-        
+        if
     }
 }
