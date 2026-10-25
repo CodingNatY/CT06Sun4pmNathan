@@ -30,7 +30,8 @@ function setup(){
 function draw(){
     background(220)
     text("word scramble game")
-    textSiz
+    textSize(18)
+    
 }
 function rescrambleWord(){
 
