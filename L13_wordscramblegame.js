@@ -52,7 +52,7 @@ function displaytext(){
     displaytext=input.value()
 }
 function rescrambleWord(){
-    
+    scrambleword=
 }
 
 function checkAnswer(){
