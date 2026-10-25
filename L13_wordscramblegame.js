@@ -19,13 +19,5 @@ function setup(){
     rescramblebutton.size(110,35)
     rescramblebutton.style("font-size","16px")
 
-    button.mousePressed(displaytext)
-
-}
-function draw(){
-    text(displaytext,300,230)
-
-}
-function displaytext(){
-    displaytext=textbox.value()
+    
 }
