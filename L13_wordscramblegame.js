@@ -42,5 +42,11 @@ function draw(){
 }
 function shuffleWord(){
     let arr =word.split(' ')
-    
+    for(let i = arr.length-1;i>0;i--){
+        let j = floor(random(i+1))
+    }
+    return arr.join('')
+}
+function displaytext(){
+    displaytext=input.value()
 }
