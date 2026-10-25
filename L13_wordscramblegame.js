@@ -17,5 +17,6 @@ function setup(){
 
 }
 function draw(){
-    text(displaytext,)
+    text(displaytext,300,230)
+    
 }
