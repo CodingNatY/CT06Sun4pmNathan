@@ -35,7 +35,7 @@ function draw(){
     textSize(18)
     text("random word: " + currentword,300,125)
     textSize(16)
-    text("score: "+ score)
+    text("score: "+ score,300,250)
 }
 function rescrambleWord(){
 
