@@ -1,4 +1,4 @@
 let textbox
 function setup(){
-    textbox=create
+    textbox=createInput()
 }
