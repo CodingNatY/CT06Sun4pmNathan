@@ -26,7 +26,7 @@ function setup(){
     submitbutton.position(375,175)
     submitbutton.size(100,35)
     submitbutton.style("font-size","16px")
-    button.mousePressed(checkAnswer)
+    submitbutton.mousePressed(checkAnswer)
 
 }
 function draw(){
