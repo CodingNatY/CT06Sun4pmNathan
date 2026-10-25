@@ -8,7 +8,7 @@ let streak=0
 let maxstreak=0
 let message=""
 function setup(){
-    currentword
+    currentword=random()
     createCanvas(600,400)
 
     input=createInput("enter text here")
