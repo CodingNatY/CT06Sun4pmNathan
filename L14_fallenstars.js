@@ -19,6 +19,7 @@ let starSize=[];
 let starSpeed=[];
 let numStars=20;
 let playerX;
+let gameover=
 
 function setup(){
     createCanvas(1500,1000);
@@ -32,7 +33,7 @@ function setup(){
 }
 function draw(){
     background(0);
-if(!)
+if(!gameover)
     for(let i = 0; i<numStars;i++){
         fill(255,255,0)
         ellipse(starX[i],starY[i],starSize[i]);
