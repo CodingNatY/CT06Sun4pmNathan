@@ -18,10 +18,10 @@ let starY=[];
 let starSize=[];
 let starSpeed=[];
 let numStars=20;
-
+let playerX
 function setup(){
     createCanvas(600,400);
-    let playerX=width/2;
+     playerX=width/2;
     for(let i =0;i<numStars;i++){
         starX.push(random(width));
         starY.push(random(-300,-50));
