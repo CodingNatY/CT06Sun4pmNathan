@@ -16,4 +16,4 @@
 let starX=[];
 let starY=[];
 let starSize=[];
-let star
+let starSpeed
