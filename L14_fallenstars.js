@@ -21,6 +21,7 @@ let numStars=20;
 let playerX;
 let gameover=false
 let score=0;
+let 
 
 function setup(){
     createCanvas(1500,1000);
