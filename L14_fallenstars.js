@@ -33,7 +33,7 @@ function setup(){
 }
 function draw(){
     background(0);
-if(!gameover)
+if(!gameover){
     for(let i = 0; i<numStars;i++){
         fill(255,255,0)
         ellipse(starX[i],starY[i],starSize[i]);
@@ -56,5 +56,5 @@ if(!gameover)
     fill(random(255),random(255),random(255));
     rect(playerX,height-40,50,50);
 
-
+}
 }
