@@ -18,7 +18,8 @@ let starY=[];
 let starSize=[];
 let starSpeed=[];
 let numStars=20;
-let playerX
+let playerX;
+
 function setup(){
     createCanvas(600,400);
      playerX=width/2;
