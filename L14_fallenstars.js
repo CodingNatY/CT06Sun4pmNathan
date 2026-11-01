@@ -50,7 +50,7 @@ function draw(){
     if (keyIsDown(RIGHT_ARROW)){
         playerX+=5;
     }
-    playerX = constrain(playerX,0,width);
+    playerX = constrain(playerX,0,width-40);
 
     fill(random(255),random(255),random(255));
     rect(playerX,height-40,50,50);
