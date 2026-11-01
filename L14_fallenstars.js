@@ -21,4 +21,26 @@ let numStars=random(10,20);
 
 function setup(){
     createCanvas(600,400);
+    for(let i =0;i<numStars;i++){
+        starX.push(random(width));
+        starY.push(random(-300,-50));
+        starSize.push(random(10,30));
+        starSpeed.push(random(1,5));
+    }
+}
+function draw(){
+    background(0);
+
+    for(let i = 0; i,numStars;i++){
+        fill(255,255,0)
+        ellipse(starX[i],starY[i],starSize[i]);
+        starY[i] += starSpeed[i];
+
+        if(starY[i]>height){
+            starY[i]=random(-300,-50);
+            starX[i]=random(width);
+            starSpeed[i]=random(3,6);
+        }
+    }
+
 }
