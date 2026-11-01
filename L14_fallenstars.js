@@ -43,5 +43,6 @@ function draw(){
             starSpeed[i]=random(3,6);
         }
     }
+    
 
 }
