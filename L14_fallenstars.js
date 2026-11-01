@@ -14,4 +14,5 @@
 
 // }
 let starX;
-let st
+let starY;
+let
