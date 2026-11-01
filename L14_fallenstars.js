@@ -1,4 +1,4 @@
-word=random("apple")
+word=random(list)
 function setup(){
 
 }
