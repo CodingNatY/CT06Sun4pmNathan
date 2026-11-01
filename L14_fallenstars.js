@@ -47,7 +47,7 @@ function draw(){
         playerX-=5;
     }
     if (keyIsDown(RIGHT_ARROW)){
-        playerX
+        playerX+=5;
     }
 
 
