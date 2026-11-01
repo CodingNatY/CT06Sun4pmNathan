@@ -39,7 +39,7 @@ if(!gameover){
         ellipse(starX[i],starY[i],starSize[i]);
         starY[i] += starSpeed[i];
 
-        if(star)
+        if(starY[i]>height)
 
         if(starY[i]>height){
             starY[i]=random(-300,-50);
