@@ -13,6 +13,6 @@
 // function checkGuess(){
 
 // }
-let starX;
-let starY;
+let starX=[]
+let starY=[]
 let
