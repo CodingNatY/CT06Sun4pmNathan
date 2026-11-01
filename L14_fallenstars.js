@@ -20,5 +20,5 @@ let starSpeed=[];
 let numStars=random(10,20);
 
 function setup(){
-    createCanvas
+    createCanvas(600,400);
 }
