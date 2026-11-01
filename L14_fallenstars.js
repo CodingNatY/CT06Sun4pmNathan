@@ -55,10 +55,10 @@ if(!gameover){
     if (keyIsDown(RIGHT_ARROW)){
         playerX+=5;
     }
-    playerX = constrain(playerX,0,width-40);
+    playerX = constrain(playerX,0,width-50);
 
     fill(random(255),random(255),random(255));
-    rect(playerX,height-40,50,50);
+    rect(playerX,height-50,50,50);
 
 }
 }
