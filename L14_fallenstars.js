@@ -18,3 +18,7 @@ let starY=[];
 let starSize=[];
 let starSpeed=[];
 let numStars=random(10,20);
+
+function setup(){
+    
+}
