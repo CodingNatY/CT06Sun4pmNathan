@@ -49,7 +49,7 @@ function draw(){
     if (keyIsDown(RIGHT_ARROW)){
         playerX+=5;
     }
-    playerX = constra
+    playerX = constrain(playerX)
 
 
 }
