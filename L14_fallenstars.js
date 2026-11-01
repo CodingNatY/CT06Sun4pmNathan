@@ -40,7 +40,7 @@ if(!gameover){
         starY[i] += starSpeed[i];
 
         if(starY[i]>height-50&&starX[i]-playerX>=0&&starX[i]-playerX<50){
-            gameover=true
+            gameover=true;
         }
 
         if(starY[i]>height){
