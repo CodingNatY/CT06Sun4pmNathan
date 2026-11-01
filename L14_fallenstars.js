@@ -1,4 +1,4 @@
-let list=["apple"]
+let list=["apple","hi","hello"]
 let word=random(list)
 function setup(){
 
