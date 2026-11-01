@@ -1,3 +1,4 @@
+let list
 word=random(list)
 function setup(){
 
