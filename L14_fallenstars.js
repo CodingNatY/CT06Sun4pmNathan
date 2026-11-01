@@ -21,7 +21,7 @@ let numStars=20;
 let playerX;
 
 function setup(){
-    createCanvas(600,400);
+    createCanvas(1,400);
      playerX=width/2;
     for(let i =0;i<numStars;i++){
         starX.push(random(width));
