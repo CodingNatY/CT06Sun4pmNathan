@@ -51,7 +51,7 @@ function draw(){
     }
     playerX = constrain(playerX,0,width);
 
-    
+    fill()
 
 
 }
