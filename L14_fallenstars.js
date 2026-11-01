@@ -22,7 +22,7 @@ let playerX;
 let gameover=false
 let score=0;
 let osc;
-let as
+let as=false
 
 function setup(){
     createCanvas(1500,1000);
