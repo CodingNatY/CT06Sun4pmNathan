@@ -15,4 +15,4 @@
 // }
 let starX=[];
 let starY=[];
-let 
+let starSize
