@@ -20,6 +20,7 @@ let starSpeed=[];
 let numStars=20;
 let playerX;
 let gameover=false
+let score
 
 function setup(){
     createCanvas(1500,1000);
@@ -47,8 +48,16 @@ if(!gameover){
             starY[i]=random(-300,-50);
             starX[i]=random(width);
             starSpeed[i]=random(3,6);
+            score++
         }
     }
+    } else {
+        fill(255,0,0);
+        textSize(32);
+        text("game over aaaaaaaaaaa",width/2,height/2);
+        text("final scare: "+score,width/2,height/2);
+    }
+
     if (keyIsDown(LEFT_ARROW)){
         playerX-=5;
     }
@@ -60,5 +69,4 @@ if(!gameover){
     fill(random(255),random(255),random(255));
     rect(playerX,height-50,50,50);
 
-}
 }
