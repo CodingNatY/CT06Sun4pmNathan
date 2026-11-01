@@ -52,7 +52,7 @@ function draw(){
     playerX = constrain(playerX,0,width);
 
     fill(random(255),random(255),random(255));
-    rect(playerX,height,50,50);
+    rect(playerX,height-40,50,50);
 
 
 }
