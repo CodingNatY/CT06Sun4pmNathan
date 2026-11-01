@@ -47,8 +47,6 @@ if(!gameover){
             starY[i]=random(-300,-50);
             starX[i]=random(width);
             starSpeed[i]=random(3,6);
-
-        
         }
     }
     if (keyIsDown(LEFT_ARROW)){
