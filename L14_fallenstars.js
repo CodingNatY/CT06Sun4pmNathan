@@ -1,5 +1,5 @@
-let list
-word=random(list)
+let list=[]
+let word=random(list)
 function setup(){
 
 }
