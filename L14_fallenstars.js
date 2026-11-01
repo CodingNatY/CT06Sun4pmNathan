@@ -27,7 +27,7 @@ let as=false
 function setup(){
     createCanvas(1500,1000);
      playerX=width/2;
-     osc=new
+     osc=new p5.Os
     for(let i =0;i<numStars;i++){
         starX.push(random(width));
         starY.push(random(-300,-50));
