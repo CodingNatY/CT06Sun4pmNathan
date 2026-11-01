@@ -29,7 +29,7 @@ function setup(){
      playerX=width/2;
      osc=new p5.Oscillator();
      osc.start();
-     osc.amp(100);
+     osc.amp(0);
     for(let i =0;i<numStars;i++){
         starX.push(random(width));
         starY.push(random(-300,-50));
