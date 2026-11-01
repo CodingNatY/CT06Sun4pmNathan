@@ -1,5 +1,5 @@
 function shuffleWord(word){
-    let arr
+    let arr=word
 }
 function checkGuess(){
 
