@@ -55,7 +55,7 @@ if(!gameover){
         fill(255,0,0);
         textSize(32);
         text("game over aaaaaaaaaaa",width/2,height/2);
-        text("final scare: "+score,width/2+20,height/2);
+        text("final scare: "+score,width/2,height/2+20);
     }
 
     if (keyIsDown(LEFT_ARROW)){
