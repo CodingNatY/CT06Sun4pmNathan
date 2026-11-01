@@ -43,6 +43,9 @@ function draw(){
             starSpeed[i]=random(3,6);
         }
     }
-    square()
+    if (keyIsDown(LEFT_ARROW)){
+        playerX
+    }
+
 
 }
