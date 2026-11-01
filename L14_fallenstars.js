@@ -13,4 +13,5 @@
 // function checkGuess(){
 
 // }
-let star
+let starX;
+let st
