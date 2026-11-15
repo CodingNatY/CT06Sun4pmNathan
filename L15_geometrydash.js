@@ -4,3 +4,7 @@ let circlespeed = [];
 let circlecolour = []
 let numcircle = 3;
 let circlesize = 50;
+
+function setup(){
+    
+}
