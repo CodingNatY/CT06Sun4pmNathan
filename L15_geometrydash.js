@@ -10,6 +10,7 @@ let playersize=30;
 let velocity=0;
 let isgrounded = false;
 
+
 let spikesX=[];
 let spikeWidth = 20;
 let spikeHeight=50;
@@ -65,7 +66,7 @@ function draw(){
         triangle(spikesX[i],height,spikesX[i]+spikeWidth/2,height-spikeHeight,spikesX[i] + spikeWidth,height);
     }
     if(playerX=spikesX&&isgrounded){
-        game
+        
     }
 }
 function keyPressed(){
