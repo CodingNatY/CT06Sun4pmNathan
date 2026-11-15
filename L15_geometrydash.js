@@ -16,6 +16,6 @@ function setup(){
 }
 function draw(){
     for(i=0;i<numcircle;i++){
-        
+        circle()
     }
 }
