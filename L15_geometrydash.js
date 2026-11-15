@@ -7,7 +7,7 @@
 let playerX=100;
 let playerY;
 let playersize=30;
-let velocity;
+let velocity=0;
 let isgrounded = false;
 function setup(){
     createCanvas(600,400);
