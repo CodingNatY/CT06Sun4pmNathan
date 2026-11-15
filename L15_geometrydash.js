@@ -34,6 +34,6 @@ function draw(){
         isgrounded=true;
         velocity=0;
     }else{
-        isgrounded=false
+        isgrounded=false;
     }
 }
