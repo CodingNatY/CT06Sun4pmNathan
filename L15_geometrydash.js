@@ -8,5 +8,5 @@ let circlesize = 50;
 function setup(){
     createCanvas(400,300);
 
-    circleColour = [col]
+    circleColour = [color(255,0,0)]
 }
