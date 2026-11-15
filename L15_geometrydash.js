@@ -7,7 +7,7 @@
 let playerX=100;
 let playerY;
 let playersize=30;
-
+let velo
 // function setup(){
     createCanvas(400,300);
 
