@@ -60,7 +60,7 @@ function draw(){
         if(spikesX[i]< -spikeSpeed){
             spikesX[i]=width + random(100,300);
         }
-        triangle(spikesX)
+        triangle(spikesX[i],height)
     }
 }
 function keyPressed(){
