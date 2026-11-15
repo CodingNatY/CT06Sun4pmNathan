@@ -58,8 +58,9 @@ function draw(){
         spikesX[i]-=spikeSpeed;
 
         if(spikesX[i]< -spikeSpeed){
-            spikesX[i]=width + random()
+            spikesX[i]=width + random(100,300);
         }
+        
     }
 }
 function keyPressed(){
