@@ -24,6 +24,10 @@ function setup(){
 //     }
     textAlign(CENTER,CENTER);
     playerY=height - playersize;
+
+    for(let i =0; i<3;i++){
+        
+    }
 }
 function draw(){
 //     for(i=0;i<numcircle;i++){
