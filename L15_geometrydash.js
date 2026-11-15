@@ -68,7 +68,7 @@ function draw(){
     if(playerX=spikesX&&isgrounded){
         gameover = true;
     }else{
-        
+        score+5
     }
 }
 function keyPressed(){
