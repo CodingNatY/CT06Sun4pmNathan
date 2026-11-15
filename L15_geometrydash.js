@@ -75,6 +75,7 @@ function draw(){
             gameover=true;
         }
     }
+    
     }
 }
 function keyPressed(){
