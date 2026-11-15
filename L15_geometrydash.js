@@ -6,5 +6,5 @@ let numcircle = 3;
 let circlesize = 50;
 
 function setup(){
-    create
+    createCanvas(4)
 }
