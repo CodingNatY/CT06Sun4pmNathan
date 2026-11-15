@@ -24,5 +24,7 @@ function draw(){
 //     for(i=0;i<numcircle;i++){
 //         circle()
 //     }
+    background(0);
+
     
 }
