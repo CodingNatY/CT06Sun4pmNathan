@@ -38,5 +38,5 @@ function draw(){
     }
 
     fill(0,255,0);
-    rect(playerX,playerY,playersize,)
+    rect(playerX,playerY,playersize,playersize);
 }
