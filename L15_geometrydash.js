@@ -33,6 +33,6 @@ function draw(){
         playerY = height-playersize;
         isgrounded=true;
         velocity=0;
-        
+    }else
     }
 }
