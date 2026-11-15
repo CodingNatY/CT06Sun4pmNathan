@@ -84,6 +84,6 @@ function draw(){
 }
 function keyPressed(){
     if(key === ' '&& isgrounded){
-        velocity=-100;
+        velocity=-20;
     }
 }
