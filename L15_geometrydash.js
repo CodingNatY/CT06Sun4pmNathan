@@ -5,7 +5,8 @@
 // let numcircle = 3;
 // let circlesize = 50;
 let playerX=100;
-let playerY
+let playerY;
+let 
 
 // function setup(){
     createCanvas(400,300);
