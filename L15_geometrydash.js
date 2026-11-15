@@ -44,4 +44,8 @@ function draw(){
     textSize(20);
     text("press space to jump",width/2,30);
 }
-function
+function keyPressed(){
+    if(key === ' '&& isgrounded){
+        velocity
+    }
+}
