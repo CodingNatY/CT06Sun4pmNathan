@@ -42,4 +42,5 @@ function draw(){
 
     fill(255);
     textSize(20);
+    text()
 }
