@@ -26,5 +26,5 @@ function draw(){
 //     }
     background(0);
 
-    
+    velocity += 
 }
