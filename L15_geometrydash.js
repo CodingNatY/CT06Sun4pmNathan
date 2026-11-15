@@ -3,3 +3,4 @@ let circley = [50,150,250];
 let circlespeed = [];
 let circlecolour = []
 let numcircle = 3;
+let circlesize = 50;
