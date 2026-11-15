@@ -4,7 +4,8 @@
 // let circlecolour = []
 // let numcircle = 3;
 // let circlesize = 50;
-
+let playerX=100;
+let playerY
 
 // function setup(){
     createCanvas(400,300);
