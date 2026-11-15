@@ -53,7 +53,10 @@ function draw(){
     textSize(20);
     text("press space to jump",width/2,30);
 
-    fill(255,0,0)
+    fill(255,0,0);
+    for(let i = 0; i<spikesX.length; i++){
+        
+    }
 }
 function keyPressed(){
     if(key === ' '&& isgrounded){
