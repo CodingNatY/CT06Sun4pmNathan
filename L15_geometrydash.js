@@ -18,7 +18,7 @@ function setup(){
 //         circlespeed.push(random(1,3));
 //     }
     textAlign(CENTER,CENTER);
-    playerY=height - playersize
+    playerY=height - playersize;
 }
 function draw(){
 //     for(i=0;i<numcircle;i++){
