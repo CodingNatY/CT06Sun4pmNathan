@@ -9,7 +9,7 @@ let playerY;
 let playersize=30;
 let velocity=0;
 let isgrounded = false;
-
+let gameover
 
 let spikesX=[];
 let spikeWidth = 20;
