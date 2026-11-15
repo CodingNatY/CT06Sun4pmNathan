@@ -65,7 +65,7 @@ function draw(){
         }
         triangle(spikesX[i],height,spikesX[i]+spikeWidth/2,height-spikeHeight,spikesX[i] + spikeWidth,height);
     }
-    
+    if(!gameover)
 }
 function keyPressed(){
     if(key === ' '&& isgrounded){
