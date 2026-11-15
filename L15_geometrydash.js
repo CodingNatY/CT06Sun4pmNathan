@@ -36,4 +36,6 @@ function draw(){
     }else{
         isgrounded=false;
     }
+
+    fill
 }
