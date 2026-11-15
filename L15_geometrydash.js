@@ -58,7 +58,7 @@ function draw(){
         spikesX[i]-=spikeSpeed;
 
         if(spikesX[i]< -spikeSpeed){
-            spikesX[i]=width
+            spikesX[i]=width + RTCEncodedAudioFrame()
         }
     }
 }
