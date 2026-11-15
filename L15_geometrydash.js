@@ -10,14 +10,14 @@ let playersize=30;
 let velocity;
 let isgrounded = false;
 function setup(){
-    createCanvas(400,300);
+    createCanvas(600,400);
 
 //     circleColour = [color(255,0,0),color(0,255,0),color(0,0,255)];
 
 //     for(let i = 0; i<numcircle;i++){
 //         circlespeed.push(random(1,3));
 //     }
-    
+
 }
 function draw(){
 //     for(i=0;i<numcircle;i++){
