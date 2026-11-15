@@ -11,7 +11,8 @@ let velocity=0;
 let isgrounded = false;
 
 let spikesX=[];
-let spikeWidth = 20
+let spikeWidth = 20;
+let
 function setup(){
     createCanvas(600,400);
 
