@@ -30,6 +30,6 @@ function draw(){
     playerY+=velocity;
 
     if(playerY>= height-playersize){
-        player
+        playerY
     }
 }
