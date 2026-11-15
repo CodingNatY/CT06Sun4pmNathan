@@ -37,5 +37,6 @@ function draw(){
         isgrounded=false;
     }
 
-    fill(0,255,0)
+    fill(0,255,0);
+    rect
 }
