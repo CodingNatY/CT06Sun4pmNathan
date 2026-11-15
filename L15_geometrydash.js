@@ -14,6 +14,7 @@ let spikesX=[];
 let spikeWidth = 20;
 let spikeHeight=50;
 let spikeSpeed=25;
+
 function setup(){
     createCanvas(600,400);
 
@@ -60,7 +61,7 @@ function draw(){
         if(spikesX[i]< -spikeSpeed){
             spikesX[i]=width + random(100,300);
         }
-        triangle(spikesX[i],height,spikesX[i]+spikeWidth/2,height-spikeHeight,spikesX[i] + spikeWidth,height)
+        triangle(spikesX[i],height,spikesX[i]+spikeWidth/2,height-spikeHeight,spikesX[i] + spikeWidth,height);
     }
 }
 function keyPressed(){
