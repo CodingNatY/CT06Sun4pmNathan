@@ -53,7 +53,7 @@ function draw(){
     textSize(20);
     text("press space to jump",width/2,30);
 
-    
+    fill(255,0,0)
 }
 function keyPressed(){
     if(key === ' '&& isgrounded){
