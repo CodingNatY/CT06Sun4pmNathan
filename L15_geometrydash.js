@@ -53,7 +53,7 @@ function draw(){
     fill(255);
     textSize(20);
     text("press space to jump",width/2,30);
-    text("score")
+    text("score: ")
 
     fill(255,0,0);
     for(let i = 0; i<spikesX.length; i++){
