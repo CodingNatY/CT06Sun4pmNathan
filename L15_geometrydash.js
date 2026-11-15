@@ -31,6 +31,6 @@ function draw(){
 
     if(playerY>= height-playersize){
         playerY = height-playersize;
-        isgrounded
+        isgrounded=true
     }
 }
