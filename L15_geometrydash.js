@@ -30,6 +30,7 @@ function draw(){
     playerY+=velocity;
 
     if(playerY>= height-playersize){
-        playerY = height-playersize
+        playerY = height-playersize;
+        isgrounded
     }
 }
