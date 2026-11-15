@@ -10,5 +10,10 @@ function setup(){
 
     circleColour = [color(255,0,0),color(0,255,0),color(0,0,255)];
 
-    ofr
+    for(let i = 0; i<numcircle;i++){
+        circlespeed.push(random(1,3));
+    }
+}
+function draw(){
+
 }
