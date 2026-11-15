@@ -37,6 +37,8 @@ function draw(){
 //     }
     background(0);
 
+    if (!gameover){
+
     velocity += 0.8;
     playerY+=velocity;
 
@@ -66,6 +68,7 @@ function draw(){
         triangle(spikesX[i],height,spikesX[i]+spikeWidth/2,height-spikeHeight,spikesX[i] + spikeWidth,height);
     }
     }
+}
 function keyPressed(){
     if(key === ' '&& isgrounded){
         velocity=-100;
