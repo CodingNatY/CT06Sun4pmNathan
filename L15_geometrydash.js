@@ -75,7 +75,10 @@ function draw(){
             gameover=true;
         }
     }
-    
+    }else{
+        fill(255,0,0);
+        textSize(32);
+        text("game over! L", width/2,height/2-20);
     }
 }
 function keyPressed(){
