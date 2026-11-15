@@ -17,7 +17,8 @@ function setup(){
 //     for(let i = 0; i<numcircle;i++){
 //         circlespeed.push(random(1,3));
 //     }
-    textAlign(CENTER,CENTER)
+    textAlign(CENTER,CENTER);
+    playerY
 }
 function draw(){
 //     for(i=0;i<numcircle;i++){
